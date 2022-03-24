@@ -374,7 +374,7 @@
     },
     "flag": "https://restcountries.eu/data/btn.svg"
   },
-  "Bolivia (Plurinational State of)": {
+  "Bolivia": {
     "code": "BO",
     "capital": "Sucre",
     "region": "SA",
@@ -738,7 +738,7 @@
     },
     "flag": "https://restcountries.eu/data/cxr.svg"
   },
-  "Cocos (Keeling) Islands": {
+  "Cocos Islands": {
     "code": "CC",
     "capital": "West Island",
     "region": "OC",
@@ -798,7 +798,7 @@
     },
     "flag": "https://restcountries.eu/data/cog.svg"
   },
-  "Congo (Democratic Republic of the)": {
+  "Democratic Republic of the Congo": {
     "code": "CD",
     "capital": "Kinshasa",
     "region": "AF",
@@ -1085,7 +1085,7 @@
     },
     "flag": "https://restcountries.eu/data/eth.svg"
   },
-  "Falkland Islands (Malvinas)": {
+  "Falkland Islands": {
     "code": "FK",
     "capital": "Stanley",
     "region": "SA",
@@ -1597,7 +1597,7 @@
     },
     "flag": "https://restcountries.eu/data/civ.svg"
   },
-  "Iran (Islamic Republic of)": {
+  "Iran": {
     "code": "IR",
     "capital": "Tehran",
     "region": "AS",
@@ -1974,7 +1974,7 @@
     },
     "flag": "https://restcountries.eu/data/mac.svg"
   },
-  "Macedonia (the former Yugoslav Republic of)": {
+  "Macedonia": {
     "code": "MK",
     "capital": "Skopje",
     "region": "EU",
@@ -2169,7 +2169,7 @@
     },
     "flag": "https://restcountries.eu/data/mex.svg"
   },
-  "Micronesia (Federated States of)": {
+  "Micronesia": {
     "code": "FM",
     "capital": "Palikir",
     "region": "OC",
@@ -2184,7 +2184,7 @@
     },
     "flag": "https://restcountries.eu/data/fsm.svg"
   },
-  "Moldova (Republic of)": {
+  "Moldova": {
     "code": "MD",
     "capital": "Chișinău",
     "region": "EU",
@@ -2469,7 +2469,7 @@
     },
     "flag": "https://restcountries.eu/data/nfk.svg"
   },
-  "Korea (Democratic People's Republic of)": {
+  "North Korea": {
     "code": "KP",
     "capital": "Pyongyang",
     "region": "AS",
@@ -2859,7 +2859,7 @@
     },
     "flag": "https://restcountries.eu/data/lca.svg"
   },
-  "Saint Martin (French part)": {
+  "Saint Martin": {
     "code": "MF",
     "capital": "Marigot",
     "region": "NA",
@@ -3039,7 +3039,7 @@
     },
     "flag": "https://restcountries.eu/data/sgp.svg"
   },
-  "Sint Maarten (Dutch part)": {
+  "Sint Maarten": {
     "code": "SX",
     "capital": "Philipsburg",
     "region": "Americas",
@@ -3146,7 +3146,7 @@
     },
     "flag": "https://restcountries.eu/data/sgs.svg"
   },
-  "Korea (Republic of)": {
+  "South Korea": {
     "code": "KR",
     "capital": "Seoul",
     "region": "AS",
@@ -3645,7 +3645,7 @@
     },
     "flag": "https://restcountries.eu/data/vut.svg"
   },
-  "Venezuela (Bolivarian Republic of)": {
+  "Venezuela": {
     "code": "VE",
     "capital": "Caracas",
     "region": "SA",
