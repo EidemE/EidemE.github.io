@@ -1,7 +1,7 @@
 {
-    "name": "Cimeti\u00e8re de Cru\u00e9jouls - E\u00efdem ESSAFI",
+    "name": "Cimetière de Cruéjouls - Eïdem ESSAFI",
     "version": "1.2",
-    "generation_date": "31-05-2022 15:25:23",
+    "generation_date": "31-05-2022 15:27:16",
     "content": {
         "A": {
             "1": {
@@ -19,11 +19,11 @@
                 ]
             },
             "2": {
-                "name": "P\u00e8re Girma",
+                "name": "Père Girma",
                 "reprise": 0,
                 "condition": 0,
                 "name_change": "",
-                "other_1": "Tombe + date \u00e0 rajouter 1910 - 1985",
+                "other_1": "Tombe + date à rajouter 1910 - 1985",
                 "other_2": "",
                 "ocp_list": []
             }
@@ -61,7 +61,7 @@
                 "reprise": 0,
                 "condition": 0,
                 "name_change": "",
-                "other_1": "La plaque a \u00e9t\u00e9 mise",
+                "other_1": "La plaque a été mise",
                 "other_2": "",
                 "ocp_list": []
             },
@@ -104,7 +104,7 @@
                 "ocp_list": []
             },
             "2": {
-                "name": "MERCADIER (Asti\u00e9s)",
+                "name": "MERCADIER (Astiés)",
                 "reprise": 0,
                 "condition": 0,
                 "name_change": "",
@@ -144,7 +144,7 @@
                 "ocp_list": []
             },
             "6": {
-                "name": "COUDERC (Asti\u00e9s)",
+                "name": "COUDERC (Astiés)",
                 "reprise": 0,
                 "condition": 0,
                 "name_change": "",
@@ -259,7 +259,7 @@
                 "name": "ARNAULT",
                 "reprise": 1,
                 "condition": 1,
-                "name_change": "Inscription pierre \"MARCILLAC \u00e9pouse DELOUS\" ",
+                "name_change": "Inscription pierre \"MARCILLAC épouse DELOUS\" ",
                 "other_1": "",
                 "other_2": "",
                 "ocp_list": []
@@ -386,7 +386,7 @@
                 "ocp_list": []
             },
             "2": {
-                "name": "SALEILLES [Cl\u00e9ment]",
+                "name": "SALEILLES [Clément]",
                 "reprise": 0,
                 "condition": 0,
                 "name_change": "",
@@ -395,7 +395,7 @@
                 "ocp_list": []
             },
             "3": {
-                "name": "SALEILLES [Cl\u00e9ment]",
+                "name": "SALEILLES [Clément]",
                 "reprise": 0,
                 "condition": 0,
                 "name_change": "",
@@ -613,7 +613,7 @@
                 "reprise": 1,
                 "condition": 0,
                 "name_change": "",
-                "other_1": "Tombe bris\u00e9e",
+                "other_1": "Tombe brisée",
                 "other_2": "",
                 "ocp_list": []
             },
@@ -750,7 +750,7 @@
                 "reprise": 0,
                 "condition": 0,
                 "name_change": "",
-                "other_1": "Liste non d\u00e9taill\u00e9e",
+                "other_1": "Liste non détaillée",
                 "other_2": "",
                 "ocp_list": []
             },
@@ -1115,7 +1115,7 @@
                 "name": "DUDYNSKI",
                 "reprise": 1,
                 "condition": 0,
-                "name_change": "Inscription plaque \"H\u00e9l\u00e8ne SALVY\"",
+                "name_change": "Inscription plaque \"Hélène SALVY\"",
                 "other_1": "APRES VERIFICATION SALVY OK",
                 "other_2": "",
                 "ocp_list": []
@@ -1550,7 +1550,7 @@
                 "reprise": 1,
                 "condition": 0,
                 "name_change": "",
-                "other_1": "Tombe cass\u00e9e",
+                "other_1": "Tombe cassée",
                 "other_2": "",
                 "ocp_list": []
             }
