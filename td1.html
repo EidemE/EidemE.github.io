@@ -2,7 +2,7 @@
 <html>
   <div id="geoloc"></div>
   <div id="orient"></div>
-  
+  <div id="motion"></div>
   
   
   <script>
@@ -26,10 +26,16 @@
     
     var y = document.getElementById("orient");
     function getOrientation(event) {
-      y.innerHTML = "Alpha: " + event.alpha + "<br>Beta: " + event.beta + "<br>Gamma: " + event.gamma;
+      y.innerHTML = "<br>Alpha: " + event.alpha + "<br>Beta: " + event.beta + "<br>Gamma: " + event.gamma;
+    }
+    
+    var z = document.getElementById("motion");
+    function getMotion(event) {
+      z.innerHTML = "<br>Accélération en rotation: " + event.acceleration + "<br>Translation: " ;
     }
     
     window.addEventListener("deviceorientation", getOrientation, true);
+    window.addEventListener("devicemotion", getMotion, true);
     
     getLocation();
     
