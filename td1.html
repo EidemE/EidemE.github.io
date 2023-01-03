@@ -31,7 +31,7 @@
     
     var z = document.getElementById("motion");
     function getMotion(event) {
-      z.innerHTML = "<br>Accélération en rotation: " + event.acceleration + "<br>Translation: " ;
+      z.innerHTML = "<br>x: " + event.acceleration.x + "<br>y: " + event.acceleration.y + "<br>z: " + event.acceleration.z ;
       console.log(event);
     }
     
