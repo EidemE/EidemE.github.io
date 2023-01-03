@@ -19,11 +19,8 @@
       "<br>Longitude: " + position.coords.longitude + "<br>Hauteur: " + (position.coords.altitude == null ? 'non disponible' : position.coords.altitude) +
       "<br>Précision de mesure: " + position.coords.accuracy +
       "<br>Vitesse: " + (position.coords.speed == null ? 'non disponible' : position.coords.speed) + 
-      "<br>Timestamp: " + (position.coords.timestamp == null ? 'non disponible' : position.coords.timestamp);
+      "<br>Timestamp: " + (position.timestamp == null ? 'non disponible' : position.timestamp);
       console.log(position);
-      if (position == null) {
-        x.innerHTML = "La géolocalisation a été refusée";
-      }
     }
     
     getLocation();
