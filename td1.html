@@ -32,6 +32,7 @@
     var z = document.getElementById("motion");
     function getMotion(event) {
       z.innerHTML = "<br>Accélération en rotation: " + event.acceleration + "<br>Translation: " ;
+      console.log(event);
     }
     
     window.addEventListener("deviceorientation", getOrientation, true);
