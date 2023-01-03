@@ -18,7 +18,7 @@
       x.innerHTML = "Latitude: " + position.coords.latitude +
       "<br>Longitude: " + position.coords.longitude + "<br>Hauteur: " + position.coords.altitude
       "<br>Précision de mesure: " + position.coords.accuracy +
-      "<br>Vitesse: " + position.coords.speed + "<br>Timestamp: " + position.timestamp;
+      "<br>Vitesse: " + (position.coords.speed == null ? 'non disponible' : position.coords.speed) + "<br>Timestamp: " + position.timestamp;
     }
     
     getLocation();
