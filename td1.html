@@ -20,9 +20,10 @@
       "<br>Précision de mesure: " + position.coords.accuracy +
       "<br>Vitesse: " + (position.coords.speed == null ? 'non disponible' : position.coords.speed) + 
       "<br>Timestamp: " + (position.coords.timestamp == null ? 'non disponible' : position.coords.timestamp);
-      
+      console.log(position);
       if (position == null) {
         x.innerHTML = "La géolocalisation a été refusée";
+      }
     }
     
     getLocation();
