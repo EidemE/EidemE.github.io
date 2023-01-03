@@ -16,8 +16,9 @@
 
     function showPosition(position) {
       x.innerHTML = "Latitude: " + position.coords.latitude +
-      "<br>Longitude: " + position.coords.longitude + "<br>Précision de mesure:" + position.coords.accuracy +
-      "<br>Vitesse:" + position.coords.speed + "<br>Timestamp:" + Date.now();
+      "<br>Longitude: " + position.coords.longitude + "<br>Hauteur: " + position.coords.altitude
+      "<br>Précision de mesure: " + position.coords.accuracy +
+      "<br>Vitesse: " + position.coords.speed + "<br>Timestamp: " + position.timestamp;
     }
     
     getLocation();
