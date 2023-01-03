@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <div id="geoloc"></div>
+  <div id="orient"></div>
   
   
   
@@ -23,8 +24,14 @@
       console.log(position);
     }
     
-    getLocation();
+    var y = document.getElementById("orient");
+    function getOrientation(event) {
+      y.innerHTML = "Alpha: " + event.alpha + "<br>Beta: " + event.beta + "<br>Gamma: " + event.gamma;
+    }
     
+    window.addEventListener("deviceorientation", getOrientation(event), true);
+    
+    getLocation();
     
   </script>
 </html>
