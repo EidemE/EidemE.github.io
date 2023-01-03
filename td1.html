@@ -10,7 +10,7 @@
       if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(showPosition);
       } else {
-        x.innerHTML = "La géolocalisation n'est pas supportée ou a été refusée";
+        x.innerHTML = "La géolocalisation n'est pas supportée par ce navigateur";
       }
     }
 
@@ -20,6 +20,9 @@
       "<br>Précision de mesure: " + position.coords.accuracy +
       "<br>Vitesse: " + (position.coords.speed == null ? 'non disponible' : position.coords.speed) + 
       "<br>Timestamp: " + (position.coords.timestamp == null ? 'non disponible' : position.coords.timestamp);
+      
+      if (position == null) {
+        x.innerHTML = "La géolocalisation a été refusée";
     }
     
     getLocation();
