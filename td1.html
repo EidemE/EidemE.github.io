@@ -16,9 +16,10 @@
 
     function showPosition(position) {
       x.innerHTML = "Latitude: " + position.coords.latitude +
-      "<br>Longitude: " + position.coords.longitude + "<br>Hauteur: " + position.coords.altitude
+      "<br>Longitude: " + position.coords.longitude + "<br>Hauteur: " + (position.coords.altitude == null ? 'non disponible' : position.coords.altitude) +
       "<br>Précision de mesure: " + position.coords.accuracy +
-      "<br>Vitesse: " + (position.coords.speed == null ? 'non disponible' : position.coords.speed) + "<br>Timestamp: " + position.timestamp;
+      "<br>Vitesse: " + (position.coords.speed == null ? 'non disponible' : position.coords.speed) + 
+      "<br>Timestamp: " + (position.coords.timestamp == null ? 'non disponible' : position.coords.timestamp);
     }
     
     getLocation();
