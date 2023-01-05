@@ -1,30 +1,30 @@
 {[
 	{
 		"name": "Coquelicot",
-		"picture":
+		"picture": "https://eideme.github.io/coquelicot.png"
 	},
 	{
 		"name": "Lilas",
-		"picture":
+		"picture": "https://eideme.github.io/lilas.png"
 	},
 	{
 		"name": "Marguerite",
-		"picture":
+		"picture": "https://eideme.github.io/marguerite.png"
 	},
 	{
 		"name": "Pissenlit",
-		"picture":
+		"picture": "https://eideme.github.io/pissenlit.png"
 	},
 	{
 		"name": "Violette",
-		"picture":
+		"picture": "https://eideme.github.io/violette.png"
 	},
 	{
 		"name": "Jasmin",
-		"picture":
+		"picture": "https://eideme.github.io/jasmin.png"
 	},
 	{
 		"name": "Rose",
-		"picture":
+		"picture": "https://eideme.github.io/rose.png"
 	}
 ]}
