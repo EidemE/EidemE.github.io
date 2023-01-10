@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+        <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+    </head>
+    <body>
+        <div id="map" style="width: 500px; height: 400px;"></div>
+    </body>
+</html>
+
+<script>
+    function onEachFeature(feature, layer) {
+        layer.bindPopup('<b>' + feature.properties.nom + '</b> ' + feature.properties.code);
+    }
+
+    navigator.geolocation.getCurrentPosition(showMap);
+    
+    function showMap(position) {
+        var map = L.map('map').setView([position.coords.latitude, position.coords.longitude], 13);
+
+        L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+        fetch('https://geo.api.gouv.fr/departements/06/communes?fields=centre&format=geojson', { method: 'GET' })
+            .then(response => {
+                return response.json();
+            })
+            .then(myJSON => {
+                L.geoJSON(myJSON, {
+                    onEachFeature: onEachFeature
+                }).addTo(map);
+            });
+
+        fetch('https://api.mapbox.com/directions/v5/mapbox/driving/' + position.coords.longitude + '%2C' + position.coords.latitude + '%3B7.124405%2C43.573329?alternatives=true&geometries=geojson&language=en&overview=simplified&steps=true&access_token=pk.eyJ1IjoiY3YwNiIsImEiOiJjajg2MmpzYjcwbWdnMzNsc2NzM2l4eW0yIn0.TfDJipR5II7orUZaC848YA', { method: 'GET' })
+            .then(response => {
+                return response.json();
+            })
+            .then(myJSON => {
+                L.geoJSON(myJSON.routes[0].geometry).addTo(map);
+            });
+        
+    }
+</script>
