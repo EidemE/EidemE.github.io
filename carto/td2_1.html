@@ -13,7 +13,7 @@
     navigator.geolocation.getCurrentPosition(showMap);
     
     function showMap(position) {
-        var map = L.map('map').setView([position.coords.latitude, position.coords.longitude], 13);
+        var map = L.map('map');
 
         L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
@@ -21,7 +21,8 @@
         }).addTo(map);
 
         L.marker([43.6965, 7.270624]).addTo(map)
-            .bindPopup("<b>Nissa</b><br>Fontaine de Massena")
-            .openPopup();
+            .bindPopup("<b>Nissa</b><br>Fontaine de Massena");
+
+        map.setView([position.coords.latitude, position.coords.longitude], 13);
     }
 </script>
