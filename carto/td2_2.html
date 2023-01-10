@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+        <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+    </head>
+    <body>
+        <div id="map" style="width: 500px; height: 400px;"></div>
+        <div id="distance"></div>
+    </body>
+</html>
+
+<script>
+    navigator.geolocation.getCurrentPosition(showMap);
+    
+    function showMap(position) {
+        var map = L.map('map').setView([position.coords.latitude, position.coords.longitude], 13);
+
+        L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+        L.polygon([
+            [25.756729, -80.196502],
+            [18.466330, -66.652176],
+            [32.248137, -64.860489]
+        ]).addTo(map);
+
+        L.circle([position.coords.latitude, position.coords.longitude], {
+            color: 'green',
+            fillOpacity: 0.5,
+            radius: position.coords.accuracy
+        }).addTo(map);
+
+        var segment = L.polygon([
+            [43.6965, 7.270624],
+            [43.300969, 5.384432]
+        ]).addTo(map);
+
+        var D = 2*6371*Math.asin(Math.sqrt((Math.pow(Math.sin((43.300969-43.6965)/2), 2)+
+        Math.cos(43.6965)*Math.cos(43.300969)*
+        Math.pow(Math.sin((5.384432-7.270624)/2), 2))));
+
+        document.getElementById("distance").innerHTML = D + ' km';
+    }
+</script>
