@@ -1,30 +1,42 @@
 [
 	{
 		"name": "Coquelicot",
-		"picture": "https://eideme.github.io/coquelicot.png"
+		"picture": "https://eideme.github.io/FlowerConquest_src/coquelicot.png"
 	},
 	{
 		"name": "Lilas",
-		"picture": "https://eideme.github.io/lilas.png"
+		"picture": "https://eideme.github.io/FlowerConquest_src/lilas.png"
 	},
 	{
 		"name": "Marguerite",
-		"picture": "https://eideme.github.io/marguerite.png"
+		"picture": "https://eideme.github.io/FlowerConquest_src/marguerite.png"
 	},
 	{
 		"name": "Pissenlit",
-		"picture": "https://eideme.github.io/pissenlit.png"
+		"picture": "https://eideme.github.io/FlowerConquest_src/pissenlit.png"
 	},
 	{
 		"name": "Violette",
-		"picture": "https://eideme.github.io/violette.png"
+		"picture": "https://eideme.github.io/FlowerConquest_src/violette.png"
 	},
 	{
 		"name": "Jasmin",
-		"picture": "https://eideme.github.io/jasmin.png"
+		"picture": "https://eideme.github.io/FlowerConquest_src/jasmin.png"
 	},
 	{
 		"name": "Rose",
-		"picture": "https://eideme.github.io/rose.png"
+		"picture": "https://eideme.github.io/FlowerConquest_src/rose.png"
+	},
+	{
+		"name": "Jonquille",
+		"picture": "https://eideme.github.io/FlowerConquest_src/jonquille.png"
+	},
+	{
+		"name": "Renoncule",
+		"picture": "https://eideme.github.io/FlowerConquest_src/renoncule.png"
+	},
+	{
+		"name": "Oiseau de paradis",
+		"picture": "https://eideme.github.io/FlowerConquest_src/oiseau_de_paradis.png"
 	}
 ]
