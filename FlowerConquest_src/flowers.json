@@ -28,15 +28,15 @@
 		"picture": "https://eideme.github.io/FlowerConquest_src/rose.png"
 	},
 	{
-		"name": "Jonquille",
-		"picture": "https://eideme.github.io/FlowerConquest_src/jonquille.png"
-	},
-	{
 		"name": "Renoncule",
 		"picture": "https://eideme.github.io/FlowerConquest_src/renoncule.png"
 	},
 	{
 		"name": "Oiseau de paradis",
 		"picture": "https://eideme.github.io/FlowerConquest_src/oiseau_de_paradis.png"
+	},
+	{
+		"name": "Jonquille",
+		"picture": "https://eideme.github.io/FlowerConquest_src/jonquille.png"
 	}
 ]
