@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<img id="montagne" width="700" height="452"
+src="montagne.png" alt="Montagne" hidden>
+
+<canvas id="myCanvas" width="710" height="462"
+style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.
+</canvas>
+
+<svg width="600" height="360" style="border:1px solid #d3d3d3;margin-left: 20px;">
+    <rect id="ciel" x="0" y="0" width="600" height="220" style="fill:rgb(12, 117, 179);stroke-width:3;stroke:rgb(14, 62, 117)" />
+    <rect x="0" y="220" width="600" height="140" style="fill:rgb(36, 151, 36);stroke-width:3;stroke:rgb(15, 88, 25)" />
+    <polygon points="0,220 105,20 210,220" style="fill:rgb(146, 30, 14);stroke:rgb(105, 27, 16);stroke-width:3" />
+    <polygon points="170,220 280,30 390,220" style="fill:rgb(146, 30, 14);stroke:rgb(105, 27, 16);stroke-width:3" />
+    <polygon points="340,220 415,35 470,220" style="fill:rgb(146, 30, 14);stroke:rgb(105, 27, 16);stroke-width:3" />
+    <polygon points="410,220 505,20 600,220" style="fill:rgb(146, 30, 14);stroke:rgb(105, 27, 16);stroke-width:3" />
+    <circle cx="500" cy="80" r="40" style="fill:rgb(255, 255, 0);" onclick="changeCielColor();" />
+    <rect x="40" y="210" width="180" height="130" style="fill:rgb(204, 102, 33);stroke-width:3;stroke:rgb(134, 77, 24)" />
+    <rect id="door" x="60" y="230" width="60" height="110" style="fill:rgb(134, 35, 5);stroke-width:3;stroke:rgb(97, 20, 9)" onmouseover="changeDoorColor(true);" onmouseleave="changeDoorColor(false);" />
+    <polygon points="40,210 130,120 220,210" style="fill:rgb(194, 28, 28);stroke:rgb(128, 33, 33);stroke-width:3" />
+
+    Sorry, your browser does not support inline SVG.  
+  </svg>
+
+<script>
+var ciel = true;
+var cielSVG = document.getElementById("ciel");
+var doorSVG = document.getElementById("door");
+
+window.onload = function() {
+    var canvas = document.getElementById("myCanvas");
+    var ctx = canvas.getContext("2d");
+    var img = document.getElementById("montagne");
+    ctx.drawImage(img, 5, 5);
+    ctx.fillStyle = "#FF6600";
+    ctx.fillRect(100, 300, 200, 140);
+    ctx.fillStyle = "#990033";
+    ctx.fillRect(130, 320, 70, 120);
+    ctx.fillStyle = "red";
+    ctx.beginPath();
+    ctx.moveTo(100, 300);
+    ctx.lineTo(200, 220);
+    ctx.lineTo(300, 300);
+    ctx.fill();
+    ctx.closePath();
+    ctx.beginPath();
+    ctx.fillStyle = "yellow";
+    ctx.arc(90, 90, 45, 0, 2 * Math.PI, false);
+    ctx.fill();
+    ctx.closePath();
+};
+
+function changeCielColor() {
+    if (ciel) {
+        ciel = false;
+        cielSVG.style="fill:rgb(102, 102, 102);stroke-width:3;stroke:rgb(70, 70, 70)";
+    }
+    else {
+        ciel = true;
+        cielSVG.style="fill:rgb(12, 117, 179);stroke-width:3;stroke:rgb(14, 62, 117)";
+    }
+}
+
+function changeDoorColor(mouse) {
+    if (mouse) {
+        doorSVG.style="fill:rgb(119, 27, 91);stroke-width:3;stroke:rgb(71, 18, 71)";
+    }
+    else {
+        doorSVG.style="fill:rgb(134, 35, 5);stroke-width:3;stroke:rgb(97, 20, 9)";
+    }
+}
+</script>
+
+</body>
+</html>
