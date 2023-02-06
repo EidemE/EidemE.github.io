@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+        <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <script async src="https://unpkg.com/es-module-shims@1.3.6/dist/es-module-shims.js"></script>
+        <input type="text" id="address" /><button id="button">OK</button>
+        <div id="map" style="width: 500px; height: 400px;"></div>
+        <div><canvas id="earthCanvas"></canvas></div>
+    </body>
+</html>
+
+<script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@0.148.0/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@0.148.0/examples/jsm/"
+    }
+  }
+</script>
+
+<script type="module">
+    import * as THREE from 'three';
+    import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+    import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+    document.getElementById("button").onclick = function() { navigator.geolocation.getCurrentPosition(launchSearch); };
+
+    function _convertLatLonToVec3 (lat,lon) {
+      lat =  lat * Math.PI / 180.0;
+      lon = -lon * Math.PI / 180.0;
+      return new THREE.Vector3(
+        Math.cos(lat) * Math.cos(lon), 
+        Math.sin(lat),  
+        Math.cos(lat) * Math.sin(lon));
+    }
+
+    function launchSearch(position) {
+        var map = L.map('map').setView([position.coords.latitude, position.coords.longitude], 13);
+
+        L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+        var address = document.getElementById("address").value;
+        var addressEnc = address.replace(/ /g,'+');
+
+        fetch ('https://api.mapbox.com/geocoding/v5/mapbox.places/' + addressEnc + '.json?access_token=pk.eyJ1IjoiY3YwNiIsImEiOiJjajg2MmpzYjcwbWdnMzNsc2NzM2l4eW0yIn0.TfDJipR5II7orUZaC848YA', { method: 'GET' })
+            .then(response => {
+                return response.json();
+            })
+            .then(myJSON => {
+                const posActual = _convertLatLonToVec3(position.coords.latitude, position.coords.longitude) ;
+
+                const scene = new THREE.Scene();
+                const camera = new THREE.PerspectiveCamera( 25, 1, 0.1, 1000 );
+                camera.position.x = posActual.x ;
+                camera.position.y = posActual.y ;
+                camera.position.z = posActual.z ;
+
+                const renderer = new THREE.WebGLRenderer({ canvas: earthCanvas });
+                renderer.setSize( 500, 500 );
+                document.body.appendChild( renderer.domElement );
+
+                const light = new THREE.AmbientLight( 0xffffff );
+                scene.add( light );
+
+                const geometry = new THREE.SphereGeometry(1, 32, 32);
+                const texture = new THREE.TextureLoader().load( 'textures/2k_earth_daymap.jpg' );
+                const materialTex = new THREE.MeshBasicMaterial( { map: texture } );
+                const earth = new THREE.Mesh( geometry, materialTex );
+
+                scene.add( earth ) ;
+
+                const controls = new OrbitControls( camera, renderer.domElement );
+
+                var ad_longitude = myJSON.features[0].center[0];
+                var ad_latitude = myJSON.features[0].center[1];
+                L.geoJSON(myJSON.features[0], {
+                    onEachFeature: onEachFeature
+                }).addTo(map);
+
+                var countries = new THREE.Group();
+                const posDest = _convertLatLonToVec3(ad_latitude, ad_longitude) ;
+
+                var geometryC = new THREE.SphereGeometry(0.01, 32, 32) ;
+                var geometryB = new THREE.SphereGeometry(0.002, 32, 32);
+                var textureActual = new THREE.TextureLoader().load( 'textures/point_a.jpg' );
+                var textureDest = new THREE.TextureLoader().load( 'textures/point_b.jpg' );
+                var materialActual = new THREE.MeshBasicMaterial( { map: textureActual } ) ;
+                var materialDest = new THREE.MeshBasicMaterial( { map: textureDest } ) ;
+                var actual = new THREE.Mesh(geometryB, materialActual) ;
+                var destination = new THREE.Mesh(geometryB, materialDest) ;
+
+                actual.position.x = posActual.x ;
+                actual.position.y = posActual.y ;
+                actual.position.z = posActual.z ;
+
+                destination.position.x = posDest.x ;
+                destination.position.y = posDest.y ;
+                destination.position.z = posDest.z ;
+
+                countries.add(actual) ;
+                countries.add(destination) ;
+                scene.add(countries) ;
+
+                const animate = function () {
+                requestAnimationFrame( animate );
+
+                    countries.traverse(function(obj){
+                    if(obj.type === 'Mesh'){
+                        obj.rotation.y -= 0.008;
+                        obj.rotation.x += 0.008;
+                        obj.rotation.z += 0.008;
+                    }
+                    });
+
+                    renderer.render( scene, camera );
+                };
+                animate();
+
+                if(window.DeviceOrientationEvent) {
+                    window.addEventListener('deviceorientation', function(orientation) {
+                    earth.rotation.set(0, -orientation.alpha * (Math.PI / 180), 0) ; ;
+                    }) ;
+                }
+
+                fetch('https://api.mapbox.com/directions/v5/mapbox/walking/' + position.coords.longitude + '%2C' + position.coords.latitude + '%3B' + ad_longitude + '%2C' + ad_latitude + '?alternatives=true&geometries=geojson&language=en&overview=simplified&steps=true&access_token=pk.eyJ1IjoiY3YwNiIsImEiOiJjajg2MmpzYjcwbWdnMzNsc2NzM2l4eW0yIn0.TfDJipR5II7orUZaC848YA', { method: 'GET' })
+                .then(response => {
+                    return response.json();
+                })
+                .then(myJSON => {
+                    L.geoJSON(myJSON.routes[0].geometry).addTo(map);
+                });
+            });
+    }
+
+    function onEachFeature(feature, layer) {
+        layer.bindPopup('<b>' + feature.text + '</b>');
+    }
+</script>
