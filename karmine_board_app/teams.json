@@ -36,7 +36,7 @@
 				"lastname": "Şentürk",
 				"country": "&#127481;&#127479;",
 				"age": "21",
-				"role": "Bot laner"
+				"role": "Bot laner",
 				"picture_link": ""
 			},
 			{
@@ -154,10 +154,10 @@
 			},
 			{
 				"pseudo": "Nelo",
-				"firstname": "Mathilde"
+				"firstname": "Mathilde",
 				"lastname": "Beltoise",
 				"country": "&#127467;&#12747;",
-				"age": ""
+				"age": "",
 				"role": "",
 				"picture_link": ""
 			},
