@@ -7,7 +7,8 @@
 				"pseudo": "Cabochard",
 				"firstname": "Lucas",
 				"lastname": "Simon-Meslet",
-				"country": 0x1f1eb0x1f1f7,
+				"country_1": "1f1eb",
+				"country_2": "1f1f7",
 				"age": "25",
 				"role": "Top laner",
 				"picture_link": ""
@@ -274,7 +275,8 @@
 				"pseudo": "Bren",
 				"firstname": "Brendan",
 				"lastname": "Seve",
-				"country": "&#127467;&#12747;",
+				"country_1": "1f1eb",
+				"country_2": "1f1f7",
 				"age": "24",
 				"role": "Player",
 				"picture_link": ""
@@ -283,7 +285,8 @@
 				"pseudo": "Otaaaq",
 				"firstname": "Youen",
 				"lastname": "Egler",
-				"country": "&#127467;&#12747;",
+				"country_1": "1f1eb",
+				"country_2": "1f1f7",
 				"age": "18",
 				"role": "Player",
 				"picture_link": ""
