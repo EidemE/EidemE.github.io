@@ -2,12 +2,12 @@
 	{
 		"game": "League of Legends",
 		"league": "LFL",
-		"players": [
+		"members": [
 			{
 				"pseudo": "Cabochard",
 				"firstname": "Lucas",
 				"lastname": "Simon-Meslet",
-				"country": "&#127467;&#12747;",
+				"country": 0x1f1eb0x1f1f7,
 				"age": "25",
 				"role": "Top laner",
 				"picture_link": ""
@@ -16,7 +16,7 @@
 				"pseudo": "Skeanz",
 				"firstname": "Duncan",
 				"lastname": "Marquet",
-				"country": "&#127467;&#12747;",
+				"country": 0x1f1eb0x1f1f7,
 				"age": "22",
 				"role": "Jungler",
 				"picture_link": ""
@@ -25,7 +25,7 @@
 				"pseudo": "Saken",
 				"firstname": "Lucas",
 				"lastname": "Fayard",
-				"country": "&#127467;&#12747;",
+				"country": 0x1f1eb0x1f1f7,
 				"age": "24",
 				"role": "Mid laner",
 				"picture_link": ""
@@ -34,7 +34,7 @@
 				"pseudo": "Kaori",
 				"firstname": "Muhammed Hasan",
 				"lastname": "Şentürk",
-				"country": "&#127481;&#127479;",
+				"country": 0x1F1F90x1F1F7,
 				"age": "21",
 				"role": "Bot laner",
 				"picture_link": ""
@@ -43,7 +43,7 @@
 				"pseudo": "whiteinn",
 				"firstname": "Alexandru",
 				"lastname": "Kolozsvari",
-				"country": "&#127479;&#127476;",
+				"country": 0x1F1F70x1F1F4,
 				"age": "22",
 				"role": "Support",
 				"picture_link": ""
@@ -52,7 +52,7 @@
 				"pseudo": "Nerroh",
 				"firstname": "Stefan",
 				"lastname": "Pereira",
-				"country": "&#127463;&#127466;",
+				"country": 0x1F1E70x1F1EA,
 				"age": "26",
 				"role": "Head coach",
 				"picture_link": ""
@@ -63,7 +63,7 @@
 	{
 		"game": "Valorant",
 		"league": "VCT",
-		"players": [
+		"members": [
 			{
 				"pseudo": "Shin",
 				"firstname": "Ryad",
@@ -124,7 +124,7 @@
 	{
 		"game": "Valorant",
 		"league": "Game Changers",
-		"players": [
+		"members": [
 			{
 				"pseudo": "LiriLia",
 				"firstname": "Asma",
@@ -185,7 +185,7 @@
 	{
 		"game": "Rocket League",
 		"league": "RLCS",
-		"players": [
+		"members": [
 			{
 				"pseudo": "itachi",
 				"firstname": "Amine",
@@ -228,7 +228,7 @@
 	{
 		"game": "Smash Bros. Ultimate",
 		"league": "null",
-		"players": [
+		"members": [
 			{
 				"pseudo": "Kurama",
 				"firstname": "Pedro",
@@ -244,7 +244,7 @@
 	{
 		"game": "Teamfight Tactics",
 		"league": "null",
-		"players": [
+		"members": [
 			{
 				"pseudo": "Double61",
 				"firstname": "Emre",
@@ -269,7 +269,7 @@
 	{
 		"game": "Trackmania",
 		"league": "World Tour",
-		"players": [
+		"members": [
 			{
 				"pseudo": "Bren",
 				"firstname": "Brendan",
