@@ -1,0 +1,294 @@
+[
+	{
+		"game": "League of Legends",
+		"league": "LFL",
+		"players": [
+			{
+				"pseudo": "Cabochard",
+				"firstname": "Lucas",
+				"lastname": "Simon-Meslet",
+				"country": "&#127467;&#12747;",
+				"age": "25",
+				"role": "Top laner",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Skeanz",
+				"firstname": "Duncan",
+				"lastname": "Marquet",
+				"country": "&#127467;&#12747;",
+				"age": "22",
+				"role": "Jungler",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Saken",
+				"firstname": "Lucas",
+				"lastname": "Fayard",
+				"country": "&#127467;&#12747;",
+				"age": "24",
+				"role": "Mid laner",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Kaori",
+				"firstname": "Muhammed Hasan",
+				"lastname": "Şentürk",
+				"country": "&#127481;&#127479;",
+				"age": "21",
+				"role": "Bot laner"
+				"picture_link": ""
+			},
+			{
+				"pseudo": "whiteinn",
+				"firstname": "Alexandru",
+				"lastname": "Kolozsvari",
+				"country": "&#127479;&#127476;",
+				"age": "22",
+				"role": "Support",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Nerroh",
+				"firstname": "Stefan",
+				"lastname": "Pereira",
+				"country": "&#127463;&#127466;",
+				"age": "26",
+				"role": "Head coach",
+				"picture_link": ""
+			}
+		],
+		"picture_link": ""
+	},
+	{
+		"game": "Valorant",
+		"league": "VCT",
+		"players": [
+			{
+				"pseudo": "Shin",
+				"firstname": "Ryad",
+				"lastname": "Ensaad",
+				"country": "&#127467;&#12747;",
+				"age": "20",
+				"role": "",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Newzera",
+				"firstname": "Alexis",
+				"lastname": "Humbert",
+				"country": "&#127467;&#12747;",
+				"age": "",
+				"role": "",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "ScreaM",
+				"firstname": "Adil",
+				"lastname": "Benrlitom",
+				"country": "&#127463;&#127466;",
+				"age": "28",
+				"role": "",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Nivera",
+				"firstname": "Nabil",
+				"lastname": "Benrlitom",
+				"country": "&#127463;&#127466;",
+				"age": "21",
+				"role": "",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "xms",
+				"firstname": "Alexandre",
+				"lastname": "Forté",
+				"country": "&#127467;&#12747;",
+				"age": "25",
+				"role": "",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "pm",
+				"firstname": "Arthur",
+				"lastname": "Guillermet",
+				"country": "&#127467;&#12747;",
+				"age": "",
+				"role": "Head coach",
+				"picture_link": ""
+			}
+		],
+		"picture_link": ""
+	},
+	{
+		"game": "Valorant",
+		"league": "Game Changers",
+		"players": [
+			{
+				"pseudo": "LiriLia",
+				"firstname": "Asma",
+				"lastname": "Boughida",
+				"country": "&#127467;&#12747;",
+				"age": "",
+				"role": "",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "matriix",
+				"firstname": "Léa",
+				"lastname": "Ransquin",
+				"country": "&#127463;&#127466;",
+				"age": "18",
+				"role": "",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Mel",
+				"firstname": "Mel",
+				"lastname": "Houssein",
+				"country": "&#127467;&#12747;",
+				"age": "",
+				"role": "",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Nelo",
+				"firstname": "Mathilde"
+				"lastname": "Beltoise",
+				"country": "&#127467;&#12747;",
+				"age": ""
+				"role": "",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Ninou",
+				"firstname": "Nouhara",
+				"lastname": "Oraha",
+				"country": "&#127467;&#12747;",
+				"age": "25",
+				"role": "",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "LaAw",
+				"firstname": "Mathieu",
+				"lastname": "Plantin",
+				"country": "&#127467;&#12747;",
+				"age": "28",
+				"role": "Head coach",
+				"picture_link": ""
+			}
+		],
+		"picture_link": ""
+	},
+	{
+		"game": "Rocket League",
+		"league": "RLCS",
+		"players": [
+			{
+				"pseudo": "itachi",
+				"firstname": "Amine",
+				"lastname": "Benayachi",
+				"country": "&#127474;&#127462;",
+				"age": "19",
+				"role": "Captain",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "vatira.",
+				"firstname": "Axel",
+				"lastname": "Touret",
+				"country": "&#127467;&#12747;",
+				"age": "16",
+				"role": "Player",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "ExoTiiK",
+				"firstname": "Brice",
+				"lastname": "Bigeard",
+				"country": "&#127467;&#12747;",
+				"age": "20",
+				"role": "Player",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Eversax",
+				"firstname": "Benjamin",
+				"lastname": "Wagner",
+				"country": "&#127463;&#127466;",
+				"age": "26",
+				"role": "Coach",
+				"picture_link": ""
+			}
+		],
+		"picture_link": ""
+	},
+	{
+		"game": "Super Smash Bros. Ultimate",
+		"league": "null",
+		"players": [
+			{
+				"pseudo": "Kurama",
+				"firstname": "Pedro",
+				"lastname": "Alonso Jr.",
+				"country": "&#127482;&#127480;",
+				"age": "18",
+				"role": "Player",
+				"picture_link": ""
+			}
+		],
+		"picture_link": ""
+	},
+	{
+		"game": "Teamfight Tactics",
+		"league": "null",
+		"players": [
+			{
+				"pseudo": "Double61",
+				"firstname": "Emre",
+				"lastname": "Demirtas",
+				"country": "&#127467;&#12747;",
+				"age": "18",
+				"role": "Player",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "CanbizZ",
+				"firstname": "Muhammed",
+				"lastname": "Canbaz",
+				"country": "&#127467;&#12747;",
+				"age": "",
+				"role": "Player",
+				"picture_link": ""
+			}
+		],
+		"picture_link": ""
+	},
+	{
+		"game": "Trackmania",
+		"league": "World Tour",
+		"players": [
+			{
+				"pseudo": "Bren",
+				"firstname": "Brendan",
+				"lastname": "Seve",
+				"country": "&#127467;&#12747;",
+				"age": "24",
+				"role": "Player",
+				"picture_link": ""
+			},
+			{
+				"pseudo": "Otaaaq",
+				"firstname": "Youen",
+				"lastname": "Egler",
+				"country": "&#127467;&#12747;",
+				"age": "18",
+				"role": "Player",
+				"picture_link": ""
+			}
+		],
+		"picture_link": ""
+	}
+]
