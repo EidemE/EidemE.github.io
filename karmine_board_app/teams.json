@@ -92,7 +92,7 @@
 				"picture_link": ""
 			}
 		],
-		"picture_link": ""
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
 	},
 	{
 		"game": "Valorant",
@@ -176,7 +176,7 @@
 				"picture_link": ""
 			}
 		],
-		"picture_link": ""
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct.png"
 	},
 	{
 		"game": "Valorant",
@@ -260,7 +260,7 @@
 				"picture_link": ""
 			}
 		],
-		"picture_link": ""
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png"
 	},
 	{
 		"game": "Rocket League",
@@ -311,7 +311,7 @@
 				"picture_link": ""
 			}
 		],
-		"picture_link": ""
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/rlcs.png"
 	},
 	{
 		"game": "Smash Bros. Ultimate",
@@ -329,7 +329,7 @@
 				"picture_link": ""
 			}
 		],
-		"picture_link": ""
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/ssbu.png"
 	},
 	{
 		"game": "Teamfight Tactics",
@@ -358,7 +358,7 @@
 				"picture_link": ""
 			}
 		],
-		"picture_link": ""
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tft.png"
 	},
 	{
 		"game": "Trackmania",
@@ -387,6 +387,6 @@
 				"picture_link": ""
 			}
 		],
-		"picture_link": ""
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tm_wt.png"
 	}
 ]
