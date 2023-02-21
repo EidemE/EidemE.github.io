@@ -7,8 +7,8 @@
 				"pseudo": "Cabochard",
 				"firstname": "Lucas",
 				"lastname": "Simon-Meslet",
-				"country_1": "1f1eb",
-				"country_2": "1f1f7",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "25",
 				"role": "Top laner",
 				"picture_link": ""
@@ -17,7 +17,8 @@
 				"pseudo": "Skeanz",
 				"firstname": "Duncan",
 				"lastname": "Marquet",
-				"country": 0x1f1eb0x1f1f7,
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "22",
 				"role": "Jungler",
 				"picture_link": ""
@@ -26,7 +27,8 @@
 				"pseudo": "Saken",
 				"firstname": "Lucas",
 				"lastname": "Fayard",
-				"country": 0x1f1eb0x1f1f7,
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "24",
 				"role": "Mid laner",
 				"picture_link": ""
@@ -35,7 +37,8 @@
 				"pseudo": "Kaori",
 				"firstname": "Muhammed Hasan",
 				"lastname": "Şentürk",
-				"country": 0x1F1F90x1F1F7,
+				"country_1": "1F1F9",
+				"country_2": "1F1F7",
 				"age": "21",
 				"role": "Bot laner",
 				"picture_link": ""
@@ -44,7 +47,8 @@
 				"pseudo": "whiteinn",
 				"firstname": "Alexandru",
 				"lastname": "Kolozsvari",
-				"country": 0x1F1F70x1F1F4,
+				"country_1": "1F1F7",
+				"country_2": "1F1F4",
 				"age": "22",
 				"role": "Support",
 				"picture_link": ""
@@ -53,7 +57,8 @@
 				"pseudo": "Nerroh",
 				"firstname": "Stefan",
 				"lastname": "Pereira",
-				"country": 0x1F1E70x1F1EA,
+				"country_1": "1F1E7",
+				"country_2": "1F1EA",
 				"age": "26",
 				"role": "Head coach",
 				"picture_link": ""
@@ -69,7 +74,8 @@
 				"pseudo": "Shin",
 				"firstname": "Ryad",
 				"lastname": "Ensaad",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "20",
 				"role": "",
 				"picture_link": ""
@@ -78,7 +84,8 @@
 				"pseudo": "Newzera",
 				"firstname": "Alexis",
 				"lastname": "Humbert",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "",
 				"role": "",
 				"picture_link": ""
@@ -87,7 +94,8 @@
 				"pseudo": "ScreaM",
 				"firstname": "Adil",
 				"lastname": "Benrlitom",
-				"country": "&#127463;&#127466;",
+				"country_1": "1F1E7",
+				"country_2": "1F1EA",
 				"age": "28",
 				"role": "",
 				"picture_link": ""
@@ -96,7 +104,8 @@
 				"pseudo": "Nivera",
 				"firstname": "Nabil",
 				"lastname": "Benrlitom",
-				"country": "&#127463;&#127466;",
+				"country_1": "1F1E7",
+				"country_2": "1F1EA",
 				"age": "21",
 				"role": "",
 				"picture_link": ""
@@ -105,7 +114,8 @@
 				"pseudo": "xms",
 				"firstname": "Alexandre",
 				"lastname": "Forté",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "25",
 				"role": "",
 				"picture_link": ""
@@ -114,7 +124,8 @@
 				"pseudo": "pm",
 				"firstname": "Arthur",
 				"lastname": "Guillermet",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "",
 				"role": "Head coach",
 				"picture_link": ""
@@ -130,7 +141,8 @@
 				"pseudo": "LiriLia",
 				"firstname": "Asma",
 				"lastname": "Boughida",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "",
 				"role": "",
 				"picture_link": ""
@@ -139,7 +151,8 @@
 				"pseudo": "matriix",
 				"firstname": "Léa",
 				"lastname": "Ransquin",
-				"country": "&#127463;&#127466;",
+				"country_1": "1F1E7",
+				"country_2": "1F1EA",
 				"age": "18",
 				"role": "",
 				"picture_link": ""
@@ -148,7 +161,8 @@
 				"pseudo": "Mel",
 				"firstname": "Mel",
 				"lastname": "Houssein",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "",
 				"role": "",
 				"picture_link": ""
@@ -157,7 +171,8 @@
 				"pseudo": "Nelo",
 				"firstname": "Mathilde",
 				"lastname": "Beltoise",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "",
 				"role": "",
 				"picture_link": ""
@@ -166,7 +181,8 @@
 				"pseudo": "Ninou",
 				"firstname": "Nouhara",
 				"lastname": "Oraha",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "25",
 				"role": "",
 				"picture_link": ""
@@ -175,7 +191,8 @@
 				"pseudo": "LaAw",
 				"firstname": "Mathieu",
 				"lastname": "Plantin",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "28",
 				"role": "Head coach",
 				"picture_link": ""
@@ -191,7 +208,8 @@
 				"pseudo": "itachi",
 				"firstname": "Amine",
 				"lastname": "Benayachi",
-				"country": "&#127474;&#127462;",
+				"country_1": "1F1F2",
+				"country_2": "1F1E6",
 				"age": "19",
 				"role": "Captain",
 				"picture_link": ""
@@ -200,7 +218,8 @@
 				"pseudo": "vatira.",
 				"firstname": "Axel",
 				"lastname": "Touret",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "16",
 				"role": "Player",
 				"picture_link": ""
@@ -209,7 +228,8 @@
 				"pseudo": "ExoTiiK",
 				"firstname": "Brice",
 				"lastname": "Bigeard",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "20",
 				"role": "Player",
 				"picture_link": ""
@@ -218,7 +238,8 @@
 				"pseudo": "Eversax",
 				"firstname": "Benjamin",
 				"lastname": "Wagner",
-				"country": "&#127463;&#127466;",
+				"country_1": "1F1E7",
+				"country_2": "1F1EA",
 				"age": "26",
 				"role": "Coach",
 				"picture_link": ""
@@ -234,7 +255,8 @@
 				"pseudo": "Kurama",
 				"firstname": "Pedro",
 				"lastname": "Alonso Jr.",
-				"country": "&#127482;&#127480;",
+				"country_1": "1F1FA",
+				"country_2": "1F1F8",
 				"age": "18",
 				"role": "Player",
 				"picture_link": ""
@@ -250,7 +272,8 @@
 				"pseudo": "Double61",
 				"firstname": "Emre",
 				"lastname": "Demirtas",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "18",
 				"role": "Player",
 				"picture_link": ""
@@ -259,7 +282,8 @@
 				"pseudo": "CanbizZ",
 				"firstname": "Muhammed",
 				"lastname": "Canbaz",
-				"country": "&#127467;&#12747;",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "",
 				"role": "Player",
 				"picture_link": ""
@@ -275,8 +299,8 @@
 				"pseudo": "Bren",
 				"firstname": "Brendan",
 				"lastname": "Seve",
-				"country_1": "1f1eb",
-				"country_2": "1f1f7",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "24",
 				"role": "Player",
 				"picture_link": ""
@@ -285,8 +309,8 @@
 				"pseudo": "Otaaaq",
 				"firstname": "Youen",
 				"lastname": "Egler",
-				"country_1": "1f1eb",
-				"country_2": "1f1f7",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
 				"age": "18",
 				"role": "Player",
 				"picture_link": ""
