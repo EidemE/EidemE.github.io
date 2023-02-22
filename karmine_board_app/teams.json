@@ -106,7 +106,7 @@
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
 				"birth_date": "2002-09-03",
-				"role": "",
+				"role": "Flex",
 				"picture_link": ""
 			},
 			{
@@ -116,8 +116,8 @@
 				"gender": "M",
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
-				"birth_date": "",
-				"role": "",
+				"birth_date": "2001-02-27",
+				"role": "Initiator",
 				"picture_link": ""
 			},
 			{
@@ -189,7 +189,7 @@
 				"gender": "F",
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
-				"birth_date": "",
+				"birth_date": "1998-08-23",
 				"role": "IGL",
 				"picture_link": ""
 			},
@@ -211,7 +211,7 @@
 				"gender": "F",
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
-				"birth_date": "",
+				"birth_date": "1996-07-02",
 				"role": "Flex",
 				"picture_link": ""
 			},
@@ -222,7 +222,7 @@
 				"gender": "F",
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
-				"birth_date": "",
+				"birth_date": "2002-02-18",
 				"role": "Flex",
 				"picture_link": ""
 			},
@@ -353,7 +353,7 @@
 				"gender": "M",
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
-				"birth_date": "",
+				"birth_date": "2003-11-17",
 				"role": "Player",
 				"picture_link": ""
 			}
