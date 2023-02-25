@@ -12,6 +12,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "1997-04-15",
 				"role": "Top laner",
+				"twitch": "Cabochardlol",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/cabochard.png"
 			},
 			{
@@ -23,6 +25,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "2000-09-25",
 				"role": "Jungler",
+				"twitch": "skeanz",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/skeanz.png"
 			},
 			{
@@ -34,6 +38,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "1998-11-05",
 				"role": "Mid laner",
+				"twitch": "saken_lol",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/saken.png"
 			},
 			{
@@ -45,6 +51,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "2001-07-09",
 				"role": "Bot laner",
+				"twitch": "kaori123",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/kaori.png"
 			},
 			{
@@ -56,6 +64,8 @@
 				"country_2": "1F1F4",
 				"birth_date": "2000-10-03",
 				"role": "Support",
+				"twitch": "null",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/whitein.png"
 			},
 			{
@@ -67,6 +77,8 @@
 				"country_2": "1F1EA",
 				"birth_date": "1996-08-08",
 				"role": "Head coach",
+				"twitch": "null",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/nerroh.png"
 			},
 			{
@@ -78,6 +90,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "null",
 				"role": "Assistant coach",
+				"twitch": "null",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/reha.png"
 			},
 			{
@@ -87,8 +101,10 @@
 				"gender": "M",
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
-				"birth_date": "null",
+				"birth_date": "1995-09-11",
 				"role": "Assistant coach",
+				"twitch": "NalkyaLoL",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/nalkya.png"
 			}
 		],
@@ -107,6 +123,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "2002-09-03",
 				"role": "Flex",
+				"twitch": "ShinSZNN",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/shin.png"
 			},
 			{
@@ -118,6 +136,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "2001-02-27",
 				"role": "Initiator",
+				"twitch": "Newzeraaaa",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/newzera.png"
 			},
 			{
@@ -129,6 +149,8 @@
 				"country_2": "1F1EA",
 				"birth_date": "1994-07-02",
 				"role": "IGL",
+				"twitch": "ScreaM",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/scream.png"
 			},
 			{
@@ -140,6 +162,8 @@
 				"country_2": "1F1EA",
 				"birth_date": "2001-06-10",
 				"role": "Sniper",
+				"twitch": "Nivera",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/nivera.png"
 			},
 			{
@@ -151,6 +175,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "1997-05-24",
 				"role": "Smoker/Flex",
+				"twitch": "xms51",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/xms.png"
 			},
 			{
@@ -162,6 +188,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "null",
 				"role": "Head coach",
+				"twitch": "pmleek",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/pm.png"
 			},
 			{
@@ -173,6 +201,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "1999-06-26",
 				"role": "Assistant coach",
+				"twitch": "ZE1SH",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/ze1sh.png"
 			}
 		],
@@ -191,6 +221,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "1998-08-23",
 				"role": "IGL",
+				"twitch": "LiriLia",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/lirilia.png"
 			},
 			{
@@ -202,6 +234,8 @@
 				"country_2": "1F1EA",
 				"birth_date": "2004-09-15",
 				"role": "Duelist",
+				"twitch": "matriixl1",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/matriix.png"
 			},
 			{
@@ -213,6 +247,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "1996-07-02",
 				"role": "Flex",
+				"twitch": "MelHssn_",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/mel.png"
 			},
 			{
@@ -224,6 +260,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "2002-02-18",
 				"role": "Flex",
+				"twitch": "Neloooo",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/nelo.png"
 			},
 			{
@@ -235,6 +273,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "1997-11-10",
 				"role": "Flex",
+				"twitch": "Ninou",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/ninou.png"
 			},
 			{
@@ -246,6 +286,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "1995-02-17",
 				"role": "Head coach",
+				"twitch": "LaAw_TV",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/laaw.png"
 			},
 			{
@@ -257,6 +299,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "1996-09-06",
 				"role": "Assistant coach",
+				"twitch": "lady_emash",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/emash.png"
 			}
 		],
@@ -275,6 +319,8 @@
 				"country_2": "1F1E6",
 				"birth_date": "2003-08-13",
 				"role": "Captain",
+				"twitch": "itachi_rl",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/itachi.png"
 			},
 			{
@@ -286,6 +332,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "2006-05-14",
 				"role": "Player",
+				"twitch": "Vatira_",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/vatira.png"
 			},
 			{
@@ -297,6 +345,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "2002-10-31",
 				"role": "Player",
+				"twitch": "ExoTiiKrl",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/exotiik.png"
 			},
 			{
@@ -308,6 +358,8 @@
 				"country_2": "1F1EA",
 				"birth_date": "1996-06-24",
 				"role": "Coach",
+				"twitch": "Eversax",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/eversax.png"
 			}
 		],
@@ -326,6 +378,8 @@
 				"country_2": "1F1F8",
 				"birth_date": "2005-02-04",
 				"role": "Player",
+				"twitch": "Kurama_SSB",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/kurama.png"
 			}
 		],
@@ -344,6 +398,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "2004-03-20",
 				"role": "Player",
+				"twitch": "KC_Double61",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/double61.png"
 			},
 			{
@@ -355,6 +411,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "2003-11-17",
 				"role": "Player",
+				"twitch": "Canbizz_",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/canbizz.png"
 			}
 		],
@@ -373,6 +431,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "1998-12-23",
 				"role": "Player",
+				"twitch": "Bren_TM2",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/bren.png"
 			},
 			{
@@ -384,6 +444,8 @@
 				"country_2": "1F1F7",
 				"birth_date": "2004-11-29",
 				"role": "Player",
+				"twitch": "Otaaaq",
+				"twitter": "",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/otaaq.png"
 			}
 		],
