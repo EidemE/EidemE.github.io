@@ -1,7 +1,7 @@
 [
 	{
 		"game": "League of Legends",
-		"league": "LFL",
+		"league": "ERL - LFL",
 		"members": [
 			{
 				"pseudo": "Cabochard",
@@ -112,7 +112,7 @@
 	},
 	{
 		"game": "Valorant",
-		"league": "VCT",
+		"league": "VCT - EMEA",
 		"members": [
 			{
 				"pseudo": "Shin",
@@ -206,7 +206,7 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/ze1sh.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct_emea.png"
 	},
 	{
 		"game": "Valorant",
@@ -308,7 +308,7 @@
 	},
 	{
 		"game": "Rocket League",
-		"league": "RLCS",
+		"league": "RLCS - EU",
 		"members": [
 			{
 				"pseudo": "itachi",
@@ -387,7 +387,7 @@
 	},
 	{
 		"game": "Teamfight Tactics",
-		"league": "null",
+		"league": "EMEA",
 		"members": [
 			{
 				"pseudo": "Double61",
