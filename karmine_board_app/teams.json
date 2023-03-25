@@ -108,7 +108,8 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/nalkya.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png",
+		"topic_name": "lollfl"
 	},
 	{
 		"game": "Valorant",
@@ -206,7 +207,8 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/ze1sh.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct_emea.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct_emea.png",
+		"topic_name": "valovct"
 	},
 	{
 		"game": "Valorant",
@@ -304,7 +306,8 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/emash.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png",
+		"topic_name": "valogc"
 	},
 	{
 		"game": "Rocket League",
@@ -363,7 +366,8 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/eversax.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/rlcs.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/rlcs.png",
+		"topic_name": "rlrlcs"
 	},
 	{
 		"game": "Smash Bros. Ultimate",
@@ -383,7 +387,8 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/kurama.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/ssbu.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/ssbu.png",
+		"topic_name": "ssbu"
 	},
 	{
 		"game": "Teamfight Tactics",
@@ -416,7 +421,8 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/canbizz.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tft.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tft.png",
+		"topic_name": "tft"
 	},
 	{
 		"game": "Trackmania",
@@ -449,6 +455,7 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/otaaq.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tm_wt.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tm_wt.png",
+		"topic_name": "tmwt"
 	}
 ]
