@@ -109,7 +109,7 @@
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png",
-		"topic_name": "lollfl"
+		"topic_name": "lolerl"
 	},
 	{
 		"game": "Valorant",
@@ -367,7 +367,7 @@
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/rlcs.png",
-		"topic_name": "rlrlcs"
+		"topic_name": "rl"
 	},
 	{
 		"game": "Smash Bros. Ultimate",
@@ -456,6 +456,6 @@
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tm_wt.png",
-		"topic_name": "tmwt"
+		"topic_name": "tm"
 	}
 ]
