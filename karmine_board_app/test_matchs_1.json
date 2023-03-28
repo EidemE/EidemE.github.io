@@ -1,6 +1,6 @@
 [
     {
-        "begin_at": "2023-03-29T15:39:00Z",
+        "begin_at": "2023-03-28T15:32:00Z",
         "detailed_stats": true,
         "draw": false,
         "end_at": null,
@@ -119,7 +119,7 @@
                 "team_id": 128577
             }
         ],
-        "scheduled_at": "2023-03-29T15:39:00Z",
+        "scheduled_at": "2023-03-28T15:42:00Z",
         "serie": {
             "begin_at": "2023-03-27T17:00:00Z",
             "end_at": "2023-05-27T22:00:00Z",
