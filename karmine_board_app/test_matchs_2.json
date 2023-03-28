@@ -1,0 +1,1777 @@
+[
+    {
+        "begin_at": "2023-03-16T19:05:48Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": "2023-03-16T19:48:47Z",
+        "forfeit": false,
+        "game_advantage": null,
+        "games": [
+            {
+                "begin_at": "2023-03-16T19:05:50Z",
+                "complete": true,
+                "detailed_stats": true,
+                "end_at": "2023-03-16T19:48:47Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 243814,
+                "length": 1977,
+                "match_id": 737355,
+                "position": 1,
+                "status": "finished",
+                "winner": {
+                    "id": 131000,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 737355,
+        "league": {
+            "id": 4292,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4292/1200px-LFL_Logo_2020.png",
+            "modified_at": "2020-02-15T13:00:22Z",
+            "name": "LFL",
+            "slug": "league-of-legends-lfl",
+            "url": "http://www.lollfl.com/"
+        },
+        "league_id": 4292,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "match_type": "best_of",
+        "modified_at": "2023-03-16T20:00:10Z",
+        "name": "GO vs KAR",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "GO",
+                    "id": 131000,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/131000/team_g_ologo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-03-17T14:32:33Z",
+                    "name": "Team GO",
+                    "slug": "team-go"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "KAR",
+                    "id": 128268,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/128268/karmine_corplogo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-01-14T09:55:36Z",
+                    "name": "Karmine Corp",
+                    "slug": "karmine-corp"
+                },
+                "type": "Team"
+            }
+        ],
+        "original_scheduled_at": "2023-03-16T20:00:00Z",
+        "rescheduled": true,
+        "results": [
+            {
+                "score": 1,
+                "team_id": 131000
+            },
+            {
+                "score": 0,
+                "team_id": 128268
+            }
+        ],
+        "scheduled_at": "2023-03-16T19:00:00Z",
+        "serie": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": null,
+            "full_name": "Spring 2023",
+            "id": 5497,
+            "league_id": 4292,
+            "modified_at": "2023-01-09T12:16:23Z",
+            "name": "",
+            "season": "Spring",
+            "slug": "league-of-legends-lfl-spring-2023",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2023
+        },
+        "serie_id": 5497,
+        "slug": "team-go-vs-karmine-corp-2023-03-16",
+        "status": "finished",
+        "streams_list": [
+            {
+                "embed_url": "https://player.twitch.tv/?channel=otplol_",
+                "language": "fr",
+                "main": true,
+                "official": true,
+                "raw_url": "https://www.twitch.tv/otplol_"
+            }
+        ],
+        "tournament": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": "2023-03-16T21:50:00Z",
+            "has_bracket": false,
+            "id": 9724,
+            "league_id": 4292,
+            "live_supported": false,
+            "modified_at": "2023-03-28T10:55:18Z",
+            "name": "Regular Season",
+            "prizepool": null,
+            "serie_id": 5497,
+            "slug": "league-of-legends-lfl-spring-2023-regular-season",
+            "tier": "c",
+            "winner_id": null,
+            "winner_type": "Team"
+        },
+        "tournament_id": 9724,
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_version": {
+            "current": false,
+            "name": "13.4.1"
+        },
+        "winner": {
+            "acronym": "GO",
+            "id": 131000,
+            "image_url": "https://cdn.pandascore.co/images/team/image/131000/team_g_ologo_square.png",
+            "location": "FR",
+            "modified_at": "2023-03-17T14:32:33Z",
+            "name": "Team GO",
+            "slug": "team-go"
+        },
+        "winner_id": 131000,
+        "winner_type": "Team"
+    },
+    {
+        "begin_at": "2023-03-15T18:53:09Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": "2023-03-15T19:33:25Z",
+        "forfeit": false,
+        "game_advantage": null,
+        "games": [
+            {
+                "begin_at": "2023-03-15T18:53:10Z",
+                "complete": true,
+                "detailed_stats": true,
+                "end_at": "2023-03-15T19:33:26Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 243808,
+                "length": 1893,
+                "match_id": 737349,
+                "position": 1,
+                "status": "finished",
+                "winner": {
+                    "id": 132529,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 737349,
+        "league": {
+            "id": 4292,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4292/1200px-LFL_Logo_2020.png",
+            "modified_at": "2020-02-15T13:00:22Z",
+            "name": "LFL",
+            "slug": "league-of-legends-lfl",
+            "url": "http://www.lollfl.com/"
+        },
+        "league_id": 4292,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "match_type": "best_of",
+        "modified_at": "2023-03-15T20:06:20Z",
+        "name": "KAR vs AGS",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "KAR",
+                    "id": 128268,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/128268/karmine_corplogo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-01-14T09:55:36Z",
+                    "name": "Karmine Corp",
+                    "slug": "karmine-corp"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "AGS",
+                    "id": 132529,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/132529/aegis__2528_french_team_2529logo_profile.png",
+                    "location": "FR",
+                    "modified_at": "2023-03-17T14:32:32Z",
+                    "name": "Aegis",
+                    "slug": "aegis"
+                },
+                "type": "Team"
+            }
+        ],
+        "original_scheduled_at": "2023-03-15T19:00:00Z",
+        "rescheduled": false,
+        "results": [
+            {
+                "score": 0,
+                "team_id": 128268
+            },
+            {
+                "score": 1,
+                "team_id": 132529
+            }
+        ],
+        "scheduled_at": "2023-03-15T19:00:00Z",
+        "serie": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": null,
+            "full_name": "Spring 2023",
+            "id": 5497,
+            "league_id": 4292,
+            "modified_at": "2023-01-09T12:16:23Z",
+            "name": "",
+            "season": "Spring",
+            "slug": "league-of-legends-lfl-spring-2023",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2023
+        },
+        "serie_id": 5497,
+        "slug": "karmine-corp-vs-aegis-2023-03-15",
+        "status": "finished",
+        "streams_list": [
+            {
+                "embed_url": "https://player.twitch.tv/?channel=otplol_",
+                "language": "fr",
+                "main": true,
+                "official": true,
+                "raw_url": "https://www.twitch.tv/otplol_"
+            }
+        ],
+        "tournament": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": "2023-03-16T21:50:00Z",
+            "has_bracket": false,
+            "id": 9724,
+            "league_id": 4292,
+            "live_supported": false,
+            "modified_at": "2023-03-28T10:55:18Z",
+            "name": "Regular Season",
+            "prizepool": null,
+            "serie_id": 5497,
+            "slug": "league-of-legends-lfl-spring-2023-regular-season",
+            "tier": "c",
+            "winner_id": null,
+            "winner_type": "Team"
+        },
+        "tournament_id": 9724,
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_version": {
+            "current": false,
+            "name": "13.4.1"
+        },
+        "winner": {
+            "acronym": "AGS",
+            "id": 132529,
+            "image_url": "https://cdn.pandascore.co/images/team/image/132529/aegis__2528_french_team_2529logo_profile.png",
+            "location": "FR",
+            "modified_at": "2023-03-17T14:32:32Z",
+            "name": "Aegis",
+            "slug": "aegis"
+        },
+        "winner_id": 132529,
+        "winner_type": "Team"
+    },
+    {
+        "begin_at": "2023-03-09T18:04:06Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": "2023-03-09T18:49:46Z",
+        "forfeit": false,
+        "game_advantage": null,
+        "games": [
+            {
+                "begin_at": "2023-03-09T18:04:07Z",
+                "complete": true,
+                "detailed_stats": true,
+                "end_at": "2023-03-09T18:49:46Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 243802,
+                "length": 2367,
+                "match_id": 737343,
+                "position": 1,
+                "status": "finished",
+                "winner": {
+                    "id": 128268,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 737343,
+        "league": {
+            "id": 4292,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4292/1200px-LFL_Logo_2020.png",
+            "modified_at": "2020-02-15T13:00:22Z",
+            "name": "LFL",
+            "slug": "league-of-legends-lfl",
+            "url": "http://www.lollfl.com/"
+        },
+        "league_id": 4292,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "match_type": "best_of",
+        "modified_at": "2023-03-09T18:56:22Z",
+        "name": "KAR vs VIT.B",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "KAR",
+                    "id": 128268,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/128268/karmine_corplogo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-01-14T09:55:36Z",
+                    "name": "Karmine Corp",
+                    "slug": "karmine-corp"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "VIT.B",
+                    "id": 126204,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/126204/vitality-bee.png",
+                    "location": "FR",
+                    "modified_at": "2023-01-09T12:09:58Z",
+                    "name": "Vitality.Bee",
+                    "slug": "vitality-bee"
+                },
+                "type": "Team"
+            }
+        ],
+        "original_scheduled_at": "2023-03-09T18:00:00Z",
+        "rescheduled": false,
+        "results": [
+            {
+                "score": 1,
+                "team_id": 128268
+            },
+            {
+                "score": 0,
+                "team_id": 126204
+            }
+        ],
+        "scheduled_at": "2023-03-09T18:00:00Z",
+        "serie": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": null,
+            "full_name": "Spring 2023",
+            "id": 5497,
+            "league_id": 4292,
+            "modified_at": "2023-01-09T12:16:23Z",
+            "name": "",
+            "season": "Spring",
+            "slug": "league-of-legends-lfl-spring-2023",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2023
+        },
+        "serie_id": 5497,
+        "slug": "karmine-corp-vs-vitality-bee-2023-03-09",
+        "status": "finished",
+        "streams_list": [
+            {
+                "embed_url": "https://player.twitch.tv/?channel=otplol_",
+                "language": "fr",
+                "main": true,
+                "official": true,
+                "raw_url": "https://www.twitch.tv/otplol_"
+            }
+        ],
+        "tournament": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": "2023-03-16T21:50:00Z",
+            "has_bracket": false,
+            "id": 9724,
+            "league_id": 4292,
+            "live_supported": false,
+            "modified_at": "2023-03-28T10:55:18Z",
+            "name": "Regular Season",
+            "prizepool": null,
+            "serie_id": 5497,
+            "slug": "league-of-legends-lfl-spring-2023-regular-season",
+            "tier": "c",
+            "winner_id": null,
+            "winner_type": "Team"
+        },
+        "tournament_id": 9724,
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_version": {
+            "current": false,
+            "name": "13.4.1"
+        },
+        "winner": {
+            "acronym": "KAR",
+            "id": 128268,
+            "image_url": "https://cdn.pandascore.co/images/team/image/128268/karmine_corplogo_square.png",
+            "location": "FR",
+            "modified_at": "2023-01-14T09:55:36Z",
+            "name": "Karmine Corp",
+            "slug": "karmine-corp"
+        },
+        "winner_id": 128268,
+        "winner_type": "Team"
+    },
+    {
+        "begin_at": "2023-03-08T18:04:22Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": "2023-03-08T18:58:04Z",
+        "forfeit": false,
+        "game_advantage": null,
+        "games": [
+            {
+                "begin_at": "2023-03-08T18:04:23Z",
+                "complete": true,
+                "detailed_stats": true,
+                "end_at": "2023-03-08T18:58:05Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 243796,
+                "length": 2724,
+                "match_id": 737335,
+                "position": 1,
+                "status": "finished",
+                "winner": {
+                    "id": 128268,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 737335,
+        "league": {
+            "id": 4292,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4292/1200px-LFL_Logo_2020.png",
+            "modified_at": "2020-02-15T13:00:22Z",
+            "name": "LFL",
+            "slug": "league-of-legends-lfl",
+            "url": "http://www.lollfl.com/"
+        },
+        "league_id": 4292,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "match_type": "best_of",
+        "modified_at": "2023-03-08T19:01:43Z",
+        "name": "KAR vs LDLC",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "KAR",
+                    "id": 128268,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/128268/karmine_corplogo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-01-14T09:55:36Z",
+                    "name": "Karmine Corp",
+                    "slug": "karmine-corp"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "LDLC",
+                    "id": 428,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/428/220px_ldlc_o_llogo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-03-17T14:32:31Z",
+                    "name": "LDLC OL",
+                    "slug": "ldlc"
+                },
+                "type": "Team"
+            }
+        ],
+        "original_scheduled_at": "2023-03-08T17:00:00Z",
+        "rescheduled": true,
+        "results": [
+            {
+                "score": 1,
+                "team_id": 128268
+            },
+            {
+                "score": 0,
+                "team_id": 428
+            }
+        ],
+        "scheduled_at": "2023-03-08T18:00:00Z",
+        "serie": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": null,
+            "full_name": "Spring 2023",
+            "id": 5497,
+            "league_id": 4292,
+            "modified_at": "2023-01-09T12:16:23Z",
+            "name": "",
+            "season": "Spring",
+            "slug": "league-of-legends-lfl-spring-2023",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2023
+        },
+        "serie_id": 5497,
+        "slug": "karmine-corp-vs-ldlc-ol-2023-03-08",
+        "status": "finished",
+        "streams_list": [
+            {
+                "embed_url": "https://player.twitch.tv/?channel=otplol_",
+                "language": "fr",
+                "main": true,
+                "official": true,
+                "raw_url": "https://www.twitch.tv/otplol_"
+            }
+        ],
+        "tournament": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": "2023-03-16T21:50:00Z",
+            "has_bracket": false,
+            "id": 9724,
+            "league_id": 4292,
+            "live_supported": false,
+            "modified_at": "2023-03-28T10:55:18Z",
+            "name": "Regular Season",
+            "prizepool": null,
+            "serie_id": 5497,
+            "slug": "league-of-legends-lfl-spring-2023-regular-season",
+            "tier": "c",
+            "winner_id": null,
+            "winner_type": "Team"
+        },
+        "tournament_id": 9724,
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_version": {
+            "current": false,
+            "name": "13.4.1"
+        },
+        "winner": {
+            "acronym": "KAR",
+            "id": 128268,
+            "image_url": "https://cdn.pandascore.co/images/team/image/128268/karmine_corplogo_square.png",
+            "location": "FR",
+            "modified_at": "2023-01-14T09:55:36Z",
+            "name": "Karmine Corp",
+            "slug": "karmine-corp"
+        },
+        "winner_id": 128268,
+        "winner_type": "Team"
+    },
+    {
+        "begin_at": "2023-03-03T20:26:30Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": "2023-03-03T21:04:48Z",
+        "forfeit": false,
+        "game_advantage": null,
+        "games": [
+            {
+                "begin_at": "2023-03-03T20:26:31Z",
+                "complete": true,
+                "detailed_stats": true,
+                "end_at": "2023-03-03T21:04:49Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 243635,
+                "length": 1889,
+                "match_id": 735066,
+                "position": 1,
+                "status": "finished",
+                "winner": {
+                    "id": 1449,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 735066,
+        "league": {
+            "id": 4292,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4292/1200px-LFL_Logo_2020.png",
+            "modified_at": "2020-02-15T13:00:22Z",
+            "name": "LFL",
+            "slug": "league-of-legends-lfl",
+            "url": "http://www.lollfl.com/"
+        },
+        "league_id": 4292,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "match_type": "best_of",
+        "modified_at": "2023-03-03T21:10:57Z",
+        "name": "SLY vs KAR",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "SLY",
+                    "id": 1449,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/1449/123px_solarylogo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-03-17T14:32:34Z",
+                    "name": "Solary",
+                    "slug": "solary"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "KAR",
+                    "id": 128268,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/128268/karmine_corplogo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-01-14T09:55:36Z",
+                    "name": "Karmine Corp",
+                    "slug": "karmine-corp"
+                },
+                "type": "Team"
+            }
+        ],
+        "original_scheduled_at": "2023-03-03T20:00:00Z",
+        "rescheduled": false,
+        "results": [
+            {
+                "score": 1,
+                "team_id": 1449
+            },
+            {
+                "score": 0,
+                "team_id": 128268
+            }
+        ],
+        "scheduled_at": "2023-03-03T20:00:00Z",
+        "serie": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": null,
+            "full_name": "Spring 2023",
+            "id": 5497,
+            "league_id": 4292,
+            "modified_at": "2023-01-09T12:16:23Z",
+            "name": "",
+            "season": "Spring",
+            "slug": "league-of-legends-lfl-spring-2023",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2023
+        },
+        "serie_id": 5497,
+        "slug": "solary-vs-karmine-corp-2023-03-03",
+        "status": "finished",
+        "streams_list": [
+            {
+                "embed_url": "https://player.twitch.tv/?channel=otplol_",
+                "language": "fr",
+                "main": true,
+                "official": true,
+                "raw_url": "https://www.twitch.tv/otplol_"
+            }
+        ],
+        "tournament": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": "2023-03-16T21:50:00Z",
+            "has_bracket": false,
+            "id": 9724,
+            "league_id": 4292,
+            "live_supported": false,
+            "modified_at": "2023-03-28T10:55:18Z",
+            "name": "Regular Season",
+            "prizepool": null,
+            "serie_id": 5497,
+            "slug": "league-of-legends-lfl-spring-2023-regular-season",
+            "tier": "c",
+            "winner_id": null,
+            "winner_type": "Team"
+        },
+        "tournament_id": 9724,
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_version": {
+            "current": false,
+            "name": "13.3.1"
+        },
+        "winner": {
+            "acronym": "SLY",
+            "id": 1449,
+            "image_url": "https://cdn.pandascore.co/images/team/image/1449/123px_solarylogo_square.png",
+            "location": "FR",
+            "modified_at": "2023-03-17T14:32:34Z",
+            "name": "Solary",
+            "slug": "solary"
+        },
+        "winner_id": 1449,
+        "winner_type": "Team"
+    },
+    {
+        "begin_at": "2023-03-02T18:11:31Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": "2023-03-02T18:48:37Z",
+        "forfeit": false,
+        "game_advantage": null,
+        "games": [
+            {
+                "begin_at": "2023-03-02T18:11:33Z",
+                "complete": true,
+                "detailed_stats": true,
+                "end_at": "2023-03-02T18:48:38Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 243628,
+                "length": 1920,
+                "match_id": 735057,
+                "position": 1,
+                "status": "finished",
+                "winner": {
+                    "id": 128268,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 735057,
+        "league": {
+            "id": 4292,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4292/1200px-LFL_Logo_2020.png",
+            "modified_at": "2020-02-15T13:00:22Z",
+            "name": "LFL",
+            "slug": "league-of-legends-lfl",
+            "url": "http://www.lollfl.com/"
+        },
+        "league_id": 4292,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "match_type": "best_of",
+        "modified_at": "2023-03-02T18:55:19Z",
+        "name": "KAR vs IZI",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "KAR",
+                    "id": 128268,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/128268/karmine_corplogo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-01-14T09:55:36Z",
+                    "name": "Karmine Corp",
+                    "slug": "karmine-corp"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "IZI",
+                    "id": 126751,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/126751/123px_izi_dreamlogo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-01-09T12:16:04Z",
+                    "name": "IZI Dream",
+                    "slug": "izi-dream"
+                },
+                "type": "Team"
+            }
+        ],
+        "original_scheduled_at": "2023-03-02T18:00:00Z",
+        "rescheduled": false,
+        "results": [
+            {
+                "score": 1,
+                "team_id": 128268
+            },
+            {
+                "score": 0,
+                "team_id": 126751
+            }
+        ],
+        "scheduled_at": "2023-03-02T18:00:00Z",
+        "serie": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": null,
+            "full_name": "Spring 2023",
+            "id": 5497,
+            "league_id": 4292,
+            "modified_at": "2023-01-09T12:16:23Z",
+            "name": "",
+            "season": "Spring",
+            "slug": "league-of-legends-lfl-spring-2023",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2023
+        },
+        "serie_id": 5497,
+        "slug": "karmine-corp-vs-izi-dream-2023-03-02",
+        "status": "finished",
+        "streams_list": [
+            {
+                "embed_url": "https://player.twitch.tv/?channel=otplol_",
+                "language": "fr",
+                "main": true,
+                "official": true,
+                "raw_url": "https://www.twitch.tv/otplol_"
+            }
+        ],
+        "tournament": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": "2023-03-16T21:50:00Z",
+            "has_bracket": false,
+            "id": 9724,
+            "league_id": 4292,
+            "live_supported": false,
+            "modified_at": "2023-03-28T10:55:18Z",
+            "name": "Regular Season",
+            "prizepool": null,
+            "serie_id": 5497,
+            "slug": "league-of-legends-lfl-spring-2023-regular-season",
+            "tier": "c",
+            "winner_id": null,
+            "winner_type": "Team"
+        },
+        "tournament_id": 9724,
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_version": {
+            "current": false,
+            "name": "13.3.1"
+        },
+        "winner": {
+            "acronym": "KAR",
+            "id": 128268,
+            "image_url": "https://cdn.pandascore.co/images/team/image/128268/karmine_corplogo_square.png",
+            "location": "FR",
+            "modified_at": "2023-01-14T09:55:36Z",
+            "name": "Karmine Corp",
+            "slug": "karmine-corp"
+        },
+        "winner_id": 128268,
+        "winner_type": "Team"
+    },
+    {
+        "begin_at": "2023-03-01T19:18:13Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": "2023-03-01T19:49:49Z",
+        "forfeit": false,
+        "game_advantage": null,
+        "games": [
+            {
+                "begin_at": "2023-03-01T19:18:17Z",
+                "complete": true,
+                "detailed_stats": true,
+                "end_at": "2023-03-01T19:49:50Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 243624,
+                "length": 1632,
+                "match_id": 735052,
+                "position": 1,
+                "status": "finished",
+                "winner": {
+                    "id": 130005,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 735052,
+        "league": {
+            "id": 4292,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4292/1200px-LFL_Logo_2020.png",
+            "modified_at": "2020-02-15T13:00:22Z",
+            "name": "LFL",
+            "slug": "league-of-legends-lfl",
+            "url": "http://www.lollfl.com/"
+        },
+        "league_id": 4292,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "match_type": "best_of",
+        "modified_at": "2023-03-01T21:11:55Z",
+        "name": "KAR vs BDS.A",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "KAR",
+                    "id": 128268,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/128268/karmine_corplogo_square.png",
+                    "location": "FR",
+                    "modified_at": "2023-01-14T09:55:36Z",
+                    "name": "Karmine Corp",
+                    "slug": "karmine-corp"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "BDS.A",
+                    "id": 130005,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/130005/team_bd_slogo_square.png",
+                    "location": "CH",
+                    "modified_at": "2023-03-17T14:32:35Z",
+                    "name": "BDS Academy",
+                    "slug": "bds-academy"
+                },
+                "type": "Team"
+            }
+        ],
+        "original_scheduled_at": "2023-03-01T19:00:00Z",
+        "rescheduled": true,
+        "results": [
+            {
+                "score": 0,
+                "team_id": 128268
+            },
+            {
+                "score": 1,
+                "team_id": 130005
+            }
+        ],
+        "scheduled_at": "2023-03-01T19:15:00Z",
+        "serie": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": null,
+            "full_name": "Spring 2023",
+            "id": 5497,
+            "league_id": 4292,
+            "modified_at": "2023-01-09T12:16:23Z",
+            "name": "",
+            "season": "Spring",
+            "slug": "league-of-legends-lfl-spring-2023",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2023
+        },
+        "serie_id": 5497,
+        "slug": "karmine-corp-vs-bds-academy-2023-03-01",
+        "status": "finished",
+        "streams_list": [
+            {
+                "embed_url": "https://player.twitch.tv/?channel=otplol_",
+                "language": "fr",
+                "main": true,
+                "official": true,
+                "raw_url": "https://www.twitch.tv/otplol_"
+            }
+        ],
+        "tournament": {
+            "begin_at": "2023-01-18T17:00:00Z",
+            "end_at": "2023-03-16T21:50:00Z",
+            "has_bracket": false,
+            "id": 9724,
+            "league_id": 4292,
+            "live_supported": false,
+            "modified_at": "2023-03-28T10:55:18Z",
+            "name": "Regular Season",
+            "prizepool": null,
+            "serie_id": 5497,
+            "slug": "league-of-legends-lfl-spring-2023-regular-season",
+            "tier": "c",
+            "winner_id": null,
+            "winner_type": "Team"
+        },
+        "tournament_id": 9724,
+        "videogame": {
+            "id": 1,
+            "name": "LoL",
+            "slug": "league-of-legends"
+        },
+        "videogame_version": {
+            "current": false,
+            "name": "13.3.1"
+        },
+        "winner": {
+            "acronym": "BDS.A",
+            "id": 130005,
+            "image_url": "https://cdn.pandascore.co/images/team/image/130005/team_bd_slogo_square.png",
+            "location": "CH",
+            "modified_at": "2023-03-17T14:32:35Z",
+            "name": "BDS Academy",
+            "slug": "bds-academy"
+        },
+        "winner_id": 130005,
+        "winner_type": "Team"
+    },
+    {
+        "begin_at": "2023-02-26T18:16:46Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": "2023-02-26T19:12:12Z",
+        "forfeit": false,
+        "game_advantage": null,
+        "games": [
+            {
+                "begin_at": "2023-02-26T18:16:46Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T18:22:22Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24589,
+                "length": 335,
+                "match_id": 732945,
+                "position": 1,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-26T18:22:23Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T18:28:50Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24590,
+                "length": 386,
+                "match_id": 732945,
+                "position": 2,
+                "status": "finished",
+                "winner": {
+                    "id": 127600,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-26T18:28:53Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T18:35:53Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24591,
+                "length": 419,
+                "match_id": 732945,
+                "position": 3,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-26T18:35:54Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T18:44:45Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24592,
+                "length": 530,
+                "match_id": 732945,
+                "position": 4,
+                "status": "finished",
+                "winner": {
+                    "id": 127600,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-26T18:44:46Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T18:51:46Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24593,
+                "length": 420,
+                "match_id": 732945,
+                "position": 5,
+                "status": "finished",
+                "winner": {
+                    "id": 127600,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-26T18:55:32Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T19:08:45Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24594,
+                "length": 792,
+                "match_id": 732945,
+                "position": 6,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-26T19:08:47Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T19:12:12Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24595,
+                "length": 205,
+                "match_id": 732945,
+                "position": 7,
+                "status": "finished",
+                "winner": {
+                    "id": 127600,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 732945,
+        "league": {
+            "id": 4246,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4246/600px-Rlcs.png",
+            "modified_at": "2020-04-17T16:36:07Z",
+            "name": "RLCS EU",
+            "slug": "rl-eu-rlcs",
+            "url": "https://www.rocketleagueesports.com/"
+        },
+        "league_id": 4246,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "match_type": "best_of",
+        "modified_at": "2023-02-26T19:15:38Z",
+        "name": "Grand final: TL vs KC",
+        "number_of_games": 7,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "TL",
+                    "id": 127600,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/127600/130px_team_liquid_2020_lightmode.png",
+                    "location": "NL",
+                    "modified_at": "2023-02-24T18:48:25Z",
+                    "name": "Team Liquid",
+                    "slug": "team-liquyid"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "KC",
+                    "id": 129570,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/129570/600px_karmine_corp_lightmode_full.png",
+                    "location": "FR",
+                    "modified_at": "2023-02-24T18:41:16Z",
+                    "name": "Karmine Corp",
+                    "slug": "karmine-corp-rl"
+                },
+                "type": "Team"
+            }
+        ],
+        "original_scheduled_at": "2023-02-26T18:00:00Z",
+        "rescheduled": false,
+        "results": [
+            {
+                "score": 4,
+                "team_id": 127600
+            },
+            {
+                "score": 3,
+                "team_id": 129570
+            }
+        ],
+        "scheduled_at": "2023-02-26T18:00:00Z",
+        "serie": {
+            "begin_at": "2023-02-24T16:00:00Z",
+            "end_at": "2023-02-26T19:12:00Z",
+            "full_name": "Regional 3 - Invitational Winter 2023",
+            "id": 5675,
+            "league_id": 4246,
+            "modified_at": "2023-02-26T22:11:30Z",
+            "name": "Regional 3 - Invitational",
+            "season": "Winter",
+            "slug": "rl-eu-rlcs-regional-3-invitational-winter-2023",
+            "winner_id": 127600,
+            "winner_type": "Team",
+            "year": 2023
+        },
+        "serie_id": 5675,
+        "slug": "team-liquid-2023-02-26-cc4de339-8f22-4679-8d23-4b4a4a1c8b59",
+        "status": "finished",
+        "streams_list": [
+            {
+                "embed_url": "https://player.twitch.tv/?channel=rocketleague",
+                "language": "en",
+                "main": true,
+                "official": true,
+                "raw_url": "https://www.twitch.tv/rocketleague"
+            },
+            {
+                "embed_url": "https://player.twitch.tv/?channel=rocketbaguette",
+                "language": "fr",
+                "main": false,
+                "official": false,
+                "raw_url": "https://www.twitch.tv/rocketbaguette"
+            },
+            {
+                "embed_url": "https://player.twitch.tv/?channel=dreamhackspain",
+                "language": "es",
+                "main": false,
+                "official": false,
+                "raw_url": "https://www.twitch.tv/dreamhackspain"
+            }
+        ],
+        "tournament": {
+            "begin_at": "2023-02-24T18:15:00Z",
+            "end_at": "2023-02-26T19:12:00Z",
+            "has_bracket": true,
+            "id": 10035,
+            "league_id": 4246,
+            "live_supported": false,
+            "modified_at": "2023-02-26T22:11:30Z",
+            "name": "Playoffs",
+            "prizepool": "100000 United States Dollar",
+            "serie_id": 5675,
+            "slug": "rl-eu-rlcs-regional-3-cup-winter-2023-playoffs",
+            "tier": "a",
+            "winner_id": 127600,
+            "winner_type": "Team"
+        },
+        "tournament_id": 10035,
+        "videogame": {
+            "id": 22,
+            "name": "Rocket League",
+            "slug": "rl"
+        },
+        "videogame_version": null,
+        "winner": {
+            "acronym": "TL",
+            "id": 127600,
+            "image_url": "https://cdn.pandascore.co/images/team/image/127600/130px_team_liquid_2020_lightmode.png",
+            "location": "NL",
+            "modified_at": "2023-02-24T18:48:25Z",
+            "name": "Team Liquid",
+            "slug": "team-liquyid"
+        },
+        "winner_id": 127600,
+        "winner_type": "Team"
+    },
+    {
+        "begin_at": "2023-02-26T17:14:33Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": "2023-02-26T17:58:32Z",
+        "forfeit": false,
+        "game_advantage": null,
+        "games": [
+            {
+                "begin_at": "2023-02-26T17:14:34Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T17:19:29Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24567,
+                "length": 295,
+                "match_id": 732941,
+                "position": 1,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-26T17:19:30Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T17:30:30Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24568,
+                "length": 659,
+                "match_id": 732941,
+                "position": 2,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-26T17:30:33Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T17:42:57Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24569,
+                "length": 743,
+                "match_id": 732941,
+                "position": 3,
+                "status": "finished",
+                "winner": {
+                    "id": 127530,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-26T17:42:59Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T17:51:15Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24570,
+                "length": 496,
+                "match_id": 732941,
+                "position": 4,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-26T17:51:17Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-26T17:58:32Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24571,
+                "length": 435,
+                "match_id": 732941,
+                "position": 5,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 732941,
+        "league": {
+            "id": 4246,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4246/600px-Rlcs.png",
+            "modified_at": "2020-04-17T16:36:07Z",
+            "name": "RLCS EU",
+            "slug": "rl-eu-rlcs",
+            "url": "https://www.rocketleagueesports.com/"
+        },
+        "league_id": 4246,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "match_type": "best_of",
+        "modified_at": "2023-02-26T18:47:40Z",
+        "name": "Semifinals match 1: KC vs OXG",
+        "number_of_games": 7,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "KC",
+                    "id": 129570,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/129570/600px_karmine_corp_lightmode_full.png",
+                    "location": "FR",
+                    "modified_at": "2023-02-24T18:41:16Z",
+                    "name": "Karmine Corp",
+                    "slug": "karmine-corp-rl"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "OXG",
+                    "id": 127530,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/127530/190px_oxygen_esports_2021_allmode.png",
+                    "location": "US",
+                    "modified_at": "2023-02-24T18:48:24Z",
+                    "name": "Oxygen Esports",
+                    "slug": "oxygen-esports-rl"
+                },
+                "type": "Team"
+            }
+        ],
+        "original_scheduled_at": "2023-02-26T17:00:00Z",
+        "rescheduled": false,
+        "results": [
+            {
+                "score": 4,
+                "team_id": 129570
+            },
+            {
+                "score": 1,
+                "team_id": 127530
+            }
+        ],
+        "scheduled_at": "2023-02-26T17:00:00Z",
+        "serie": {
+            "begin_at": "2023-02-24T16:00:00Z",
+            "end_at": "2023-02-26T19:12:00Z",
+            "full_name": "Regional 3 - Invitational Winter 2023",
+            "id": 5675,
+            "league_id": 4246,
+            "modified_at": "2023-02-26T22:11:30Z",
+            "name": "Regional 3 - Invitational",
+            "season": "Winter",
+            "slug": "rl-eu-rlcs-regional-3-invitational-winter-2023",
+            "winner_id": 127600,
+            "winner_type": "Team",
+            "year": 2023
+        },
+        "serie_id": 5675,
+        "slug": "oxygen-esports-2023-02-26",
+        "status": "finished",
+        "streams_list": [
+            {
+                "embed_url": "https://player.twitch.tv/?channel=rocketleague",
+                "language": "en",
+                "main": true,
+                "official": true,
+                "raw_url": "https://www.twitch.tv/rocketleague"
+            },
+            {
+                "embed_url": "https://player.twitch.tv/?channel=rocketbaguette",
+                "language": "fr",
+                "main": false,
+                "official": false,
+                "raw_url": "https://www.twitch.tv/rocketbaguette"
+            },
+            {
+                "embed_url": "https://player.twitch.tv/?channel=dreamhackspain",
+                "language": "es",
+                "main": false,
+                "official": false,
+                "raw_url": "https://www.twitch.tv/dreamhackspain"
+            }
+        ],
+        "tournament": {
+            "begin_at": "2023-02-24T18:15:00Z",
+            "end_at": "2023-02-26T19:12:00Z",
+            "has_bracket": true,
+            "id": 10035,
+            "league_id": 4246,
+            "live_supported": false,
+            "modified_at": "2023-02-26T22:11:30Z",
+            "name": "Playoffs",
+            "prizepool": "100000 United States Dollar",
+            "serie_id": 5675,
+            "slug": "rl-eu-rlcs-regional-3-cup-winter-2023-playoffs",
+            "tier": "a",
+            "winner_id": 127600,
+            "winner_type": "Team"
+        },
+        "tournament_id": 10035,
+        "videogame": {
+            "id": 22,
+            "name": "Rocket League",
+            "slug": "rl"
+        },
+        "videogame_version": null,
+        "winner": {
+            "acronym": "KC",
+            "id": 129570,
+            "image_url": "https://cdn.pandascore.co/images/team/image/129570/600px_karmine_corp_lightmode_full.png",
+            "location": "FR",
+            "modified_at": "2023-02-24T18:41:16Z",
+            "name": "Karmine Corp",
+            "slug": "karmine-corp-rl"
+        },
+        "winner_id": 129570,
+        "winner_type": "Team"
+    },
+    {
+        "begin_at": "2023-02-25T18:58:48Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": "2023-02-25T19:40:33Z",
+        "forfeit": false,
+        "game_advantage": null,
+        "games": [
+            {
+                "begin_at": "2023-02-25T18:58:48Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-25T19:05:55Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24547,
+                "length": 427,
+                "match_id": 732933,
+                "position": 1,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-25T19:07:02Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-25T19:13:47Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24548,
+                "length": 404,
+                "match_id": 732933,
+                "position": 2,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-25T19:16:12Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-25T19:24:50Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24549,
+                "length": 517,
+                "match_id": 732933,
+                "position": 3,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-25T19:26:06Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-25T19:33:09Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24550,
+                "length": 422,
+                "match_id": 732933,
+                "position": 4,
+                "status": "finished",
+                "winner": {
+                    "id": 127413,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": "2023-02-25T19:34:16Z",
+                "complete": false,
+                "detailed_stats": true,
+                "end_at": "2023-02-25T19:40:33Z",
+                "finished": true,
+                "forfeit": false,
+                "id": 24551,
+                "length": 377,
+                "match_id": 732933,
+                "position": 5,
+                "status": "finished",
+                "winner": {
+                    "id": 129570,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 732933,
+        "league": {
+            "id": 4246,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4246/600px-Rlcs.png",
+            "modified_at": "2020-04-17T16:36:07Z",
+            "name": "RLCS EU",
+            "slug": "rl-eu-rlcs",
+            "url": "https://www.rocketleagueesports.com/"
+        },
+        "league_id": 4246,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "match_type": "best_of",
+        "modified_at": "2023-02-25T19:40:44Z",
+        "name": "Quarterfinals match 1: BDS vs KC",
+        "number_of_games": 7,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "BDS",
+                    "id": 127413,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/127413/team_bd_slogo_square.png",
+                    "location": "CH",
+                    "modified_at": "2023-02-24T18:48:23Z",
+                    "name": "Team BDS",
+                    "slug": "team-bds"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "KC",
+                    "id": 129570,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/129570/600px_karmine_corp_lightmode_full.png",
+                    "location": "FR",
+                    "modified_at": "2023-02-24T18:41:16Z",
+                    "name": "Karmine Corp",
+                    "slug": "karmine-corp-rl"
+                },
+                "type": "Team"
+            }
+        ],
+        "original_scheduled_at": "2023-02-25T19:00:00Z",
+        "rescheduled": true,
+        "results": [
+            {
+                "score": 1,
+                "team_id": 127413
+            },
+            {
+                "score": 4,
+                "team_id": 129570
+            }
+        ],
+        "scheduled_at": "2023-02-25T19:15:00Z",
+        "serie": {
+            "begin_at": "2023-02-24T16:00:00Z",
+            "end_at": "2023-02-26T19:12:00Z",
+            "full_name": "Regional 3 - Invitational Winter 2023",
+            "id": 5675,
+            "league_id": 4246,
+            "modified_at": "2023-02-26T22:11:30Z",
+            "name": "Regional 3 - Invitational",
+            "season": "Winter",
+            "slug": "rl-eu-rlcs-regional-3-invitational-winter-2023",
+            "winner_id": 127600,
+            "winner_type": "Team",
+            "year": 2023
+        },
+        "serie_id": 5675,
+        "slug": "karmine-corp-2023-02-25",
+        "status": "finished",
+        "streams_list": [
+            {
+                "embed_url": "https://player.twitch.tv/?channel=rocketleague",
+                "language": "en",
+                "main": true,
+                "official": true,
+                "raw_url": "https://www.twitch.tv/rocketleague"
+            },
+            {
+                "embed_url": "https://player.twitch.tv/?channel=rocketbaguette",
+                "language": "fr",
+                "main": false,
+                "official": false,
+                "raw_url": "https://www.twitch.tv/rocketbaguette"
+            },
+            {
+                "embed_url": "https://player.twitch.tv/?channel=dreamhackspain",
+                "language": "es",
+                "main": false,
+                "official": false,
+                "raw_url": "https://www.twitch.tv/dreamhackspain"
+            }
+        ],
+        "tournament": {
+            "begin_at": "2023-02-24T18:15:00Z",
+            "end_at": "2023-02-26T19:12:00Z",
+            "has_bracket": true,
+            "id": 10035,
+            "league_id": 4246,
+            "live_supported": false,
+            "modified_at": "2023-02-26T22:11:30Z",
+            "name": "Playoffs",
+            "prizepool": "100000 United States Dollar",
+            "serie_id": 5675,
+            "slug": "rl-eu-rlcs-regional-3-cup-winter-2023-playoffs",
+            "tier": "a",
+            "winner_id": 127600,
+            "winner_type": "Team"
+        },
+        "tournament_id": 10035,
+        "videogame": {
+            "id": 22,
+            "name": "Rocket League",
+            "slug": "rl"
+        },
+        "videogame_version": null,
+        "winner": {
+            "acronym": "KC",
+            "id": 129570,
+            "image_url": "https://cdn.pandascore.co/images/team/image/129570/600px_karmine_corp_lightmode_full.png",
+            "location": "FR",
+            "modified_at": "2023-02-24T18:41:16Z",
+            "name": "Karmine Corp",
+            "slug": "karmine-corp-rl"
+        },
+        "winner_id": 129570,
+        "winner_type": "Team"
+    }
+]
