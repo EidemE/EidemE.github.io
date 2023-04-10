@@ -311,7 +311,7 @@
 	},
 	{
 		"game": "Rocket League",
-		"league": "RLCS - EU",
+		"league": "RLCS Winter Major Champions",
 		"members": [
 			{
 				"pseudo": "itachi",
@@ -324,7 +324,7 @@
 				"role": "Captain",
 				"twitch": "itachi_rl",
 				"twitter": "itachi_rl",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/itachi.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/itachi_wm.png"
 			},
 			{
 				"pseudo": "vatira.",
@@ -337,7 +337,7 @@
 				"role": "Player",
 				"twitch": "Vatira_",
 				"twitter": "Vatira5",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/vatira.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/vatira_wm.png"
 			},
 			{
 				"pseudo": "ExoTiiK",
@@ -350,7 +350,7 @@
 				"role": "Player",
 				"twitch": "ExoTiiKrl",
 				"twitter": "exotiikrl",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/exotiik.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/exotiik_wm.png"
 			},
 			{
 				"pseudo": "Eversax",
@@ -366,7 +366,7 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/eversax.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/rlcs.png",
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/rlcs_wm.png",
 		"topic_name": "rl"
 	},
 	{
