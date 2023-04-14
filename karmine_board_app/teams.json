@@ -109,7 +109,15 @@
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png",
-		"topic_name": "lolerl"
+		"topic_name": "lolerl",
+		"rankings": [
+			{
+				"type": "Pandascore",
+				"id": 9724,
+				"name": "LFL Spring 2023",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+			}
+		]
 	},
 	{
 		"game": "Valorant",
@@ -208,7 +216,15 @@
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct_emea.png",
-		"topic_name": "valovct"
+		"topic_name": "valovct",
+		"rankings": [
+			{
+				"type": "Pandascore",
+				"id": 10009,
+				"name": "VCT EMEA 2023",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct_emea.png"
+			}
+		]
 	},
 	{
 		"game": "Valorant",
@@ -307,7 +323,9 @@
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png",
-		"topic_name": "valogc"
+		"topic_name": "valogc",
+		"rankings": [
+		]
 	},
 	{
 		"game": "Rocket League",
@@ -367,7 +385,9 @@
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/rlcs_wm.png",
-		"topic_name": "rl"
+		"topic_name": "rl",
+		"rankings": [
+		]
 	},
 	{
 		"game": "Smash Bros. Ultimate",
@@ -388,7 +408,9 @@
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/ssbu.png",
-		"topic_name": "ssbu"
+		"topic_name": "ssbu",
+		"rankings": [
+		]
 	},
 	{
 		"game": "Teamfight Tactics",
@@ -422,7 +444,9 @@
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tft.png",
-		"topic_name": "tft"
+		"topic_name": "tft",
+		"rankings": [
+		]
 	},
 	{
 		"game": "Trackmania",
@@ -456,6 +480,8 @@
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tm_wt.png",
-		"topic_name": "tm"
+		"topic_name": "tm",
+		"rankings": [
+		]
 	}
 ]
