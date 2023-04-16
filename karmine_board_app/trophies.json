@@ -1,0 +1,260 @@
+[
+    {
+        "name": "Galaxies Championship (Worlds)",
+        "period": "2020",
+        "fact": "Premier trophée du club et unique trophée sous le nom Kameto Corp",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "team_picture_link": "null",
+        "team": [
+            {
+                "pseudo": "Double61",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Player"
+            }
+        ]
+    },
+    {
+        "name": "LFL",
+        "period": "Spring 2021",
+        "fact": "Tout premier trophée de la KCORP sous le nouveau nom",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "team_picture_link": "null",
+        "team": [
+            {
+                "pseudo": "Adam",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Top laner"
+            },
+            {
+                "pseudo": "Cinkrof",
+                "country_1": "1F1F5",
+                "country_2": "1F1F1",
+                "role": "Jungler"
+            },
+            {
+                "pseudo": "Saken",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Mid laner"
+            },
+            {
+                "pseudo": "xMatty",
+                "country_1": "1F1EC",
+                "country_2": "1F1E7",
+                "role": "Bot laner"
+            },
+            {
+                "pseudo": "Targamas",
+                "country_1": "1F1E7",
+                "country_2": "1F1EA",
+                "role": "Support"
+            },
+            {
+                "pseudo": "Striker",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Head coach"
+            }
+        ]
+    },
+    {
+        "name": "EUM",
+        "period": "Spring 2021",
+        "fact": "Première équipe de LFL à faire le doublé LFL - EUM en un split",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "team_picture_link": "null",
+        "team": [
+            {
+                "pseudo": "Adam",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Top laner"
+            },
+            {
+                "pseudo": "Cinkrof",
+                "country_1": "1F1F5",
+                "country_2": "1F1F1",
+                "role": "Jungler"
+            },
+            {
+                "pseudo": "Saken",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Mid laner"
+            },
+            {
+                "pseudo": "xMatty",
+                "country_1": "1F1EC",
+                "country_2": "1F1E7",
+                "role": "Bot laner"
+            },
+            {
+                "pseudo": "Targamas",
+                "country_1": "1F1E7",
+                "country_2": "1F1EA",
+                "role": "Support"
+            },
+            {
+                "pseudo": "Striker",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Head coach"
+            }
+        ]
+    },
+    {
+        "name": "EUM",
+        "period": "Summer 2021",
+        "fact": "Première équipe à faire un back-to-back en EUM",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "team_picture_link": "null",
+        "team": [
+            {
+                "pseudo": "Cabochard",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Top laner"
+            },
+            {
+                "pseudo": "Cinkrof",
+                "country_1": "1F1F5",
+                "country_2": "1F1F1",
+                "role": "Jungler"
+            },
+            {
+                "pseudo": "Saken",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Mid laner"
+            },
+            {
+                "pseudo": "xMatty",
+                "country_1": "1F1EC",
+                "country_2": "1F1E7",
+                "role": "Bot laner"
+            },
+            {
+                "pseudo": "Targamas",
+                "country_1": "1F1E7",
+                "country_2": "1F1EA",
+                "role": "Support"
+            },
+            {
+                "pseudo": "Striker",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Head coach"
+            }
+        ]
+    },
+    {
+        "name": "Rising Legends: Gizmos & Gadgets (EMEA)",
+        "period": "2022",
+        "fact": "Deuxième trophée européen pour Double",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "team_picture_link": "null",
+        "team": [
+            {
+                "pseudo": "Double61",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Player"
+            }
+        ]
+    },
+    {
+        "name": "EUM",
+        "period": "Spring 2022",
+        "fact": "Première équipe à faire un three-peat en EUM",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "team_picture_link": "null",
+        "team": [
+            {
+                "pseudo": "Cabochard",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Top laner"
+            },
+            {
+                "pseudo": "113",
+                "country_1": "1F1F9",
+                "country_2": "1F1F7",
+                "role": "Jungler"
+            },
+            {
+                "pseudo": "Saken",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Mid laner"
+            },
+            {
+                "pseudo": "Rekkles",
+                "country_1": "1F1F8",
+                "country_2": "1F1EA",
+                "role": "Bot laner"
+            },
+            {
+                "pseudo": "Hantera",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Support"
+            },
+            {
+                "pseudo": "Striker",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Head coach"
+            }
+        ]
+    },
+    {
+        "name": "Hex League",
+        "period": "2022 Split 2",
+        "fact": "Premier trophée pour CanbizZ, ramenant le dernier trophée majeur du jeu manquant au club",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "team_picture_link": "null",
+        "team": [
+            {
+                "pseudo": "CanbizZ",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Player"
+            }
+        ]
+    },
+    {
+        "name": "RLCS Major",
+        "period": "Winter 2023",
+        "fact": "Premier trophée internationnal de la KCORP sur un jeu majeur",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "team_picture_link": "null",
+        "team": [
+            {
+                "pseudo": "itachi",
+                "country_1": "1F1F2",
+                "country_2": "1F1E6",
+                "role": "Captain"
+            },
+            {
+                "pseudo": "vatira.",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Player"
+            },
+            {
+                "pseudo": "ExoTiiK",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Player"
+            },
+            {
+                "pseudo": "Eversax",
+                "country_1": "1F1E7",
+                "country_2": "1F1EA",
+                "role": "Coach"
+            }
+        ]
+    }
+]
