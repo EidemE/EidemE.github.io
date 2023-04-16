@@ -3,7 +3,7 @@
         "name": "Worlds Championship",
         "period": "Galaxies - 2020",
         "fact": "Premier trophée du club et unique trophée sous le nom Kameto Corp",
-        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/worlds_tft_2020.png",
         "team_picture_link": "null",
         "team": [
             {
@@ -18,8 +18,8 @@
         "name": "LFL",
         "period": "Spring 2021",
         "fact": "Tout premier trophée de la KCORP sous le nouveau nom",
-        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
-        "team_picture_link": "null",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/lfl_spring_2021.png",
+        "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/lfl_spring_2021_team.png",
         "team": [
             {
                 "pseudo": "Adam",
@@ -63,7 +63,7 @@
         "name": "EUM",
         "period": "Spring 2021",
         "fact": "Première équipe de LFL à faire le doublé LFL - EUM en un split",
-        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_spring_2021.png",
         "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_spring_2021_team.png",
         "team": [
             {
@@ -108,7 +108,7 @@
         "name": "EUM",
         "period": "Summer 2021",
         "fact": "Première équipe à faire un back-to-back en EUM",
-        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_summer_2021.png",
         "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_summer_2021_team.png",
         "team": [
             {
@@ -153,7 +153,7 @@
         "name": "Rising Legends: Finals",
         "period": "Gizmos & Gadgets - 2022",
         "fact": "Deuxième trophée européen pour Double",
-        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
+        "picture_link": "null",
         "team_picture_link": "null",
         "team": [
             {
@@ -168,8 +168,8 @@
         "name": "EUM",
         "period": "Spring 2022",
         "fact": "Première équipe à faire un three-peat en EUM",
-        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
-        "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_summer_2022_team.png",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_spring_2022.png",
+        "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_spring_2022_team.png",
         "team": [
             {
                 "pseudo": "Cabochard",
