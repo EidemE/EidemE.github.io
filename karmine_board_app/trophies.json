@@ -64,7 +64,7 @@
         "period": "Spring 2021",
         "fact": "Première équipe de LFL à faire le doublé LFL - EUM en un split",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
-        "team_picture_link": "null",
+        "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_spring_2021_team.png",
         "team": [
             {
                 "pseudo": "Adam",
@@ -169,7 +169,7 @@
         "period": "Spring 2022",
         "fact": "Première équipe à faire un three-peat en EUM",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
-        "team_picture_link": "null",
+        "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_summer_2022_team.png",
         "team": [
             {
                 "pseudo": "Cabochard",
@@ -228,8 +228,8 @@
         "name": "RLCS Major",
         "period": "Winter 2023",
         "fact": "Premier trophée internationnal de la KCORP sur un jeu majeur",
-        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/winter_major_2023.png",
-        "team_picture_link": "null",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/rlcs_winter_major_2023.png",
+        "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/rlcs_winter_major_2023_team.png",
         "team": [
             {
                 "pseudo": "itachi",
