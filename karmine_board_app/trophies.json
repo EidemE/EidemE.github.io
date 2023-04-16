@@ -1,7 +1,7 @@
 [
     {
-        "name": "Galaxies Championship (Worlds)",
-        "period": "2020",
+        "name": "Worlds Championship",
+        "period": "Galaxies - 2020",
         "fact": "Premier trophée du club et unique trophée sous le nom Kameto Corp",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
         "team_picture_link": "null",
@@ -150,8 +150,8 @@
         ]
     },
     {
-        "name": "Rising Legends: Gizmos & Gadgets (EMEA)",
-        "period": "2022",
+        "name": "Rising Legends: Finals",
+        "period": "Gizmos & Gadgets - 2022",
         "fact": "Deuxième trophée européen pour Double",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/no_trophy_picture.png",
         "team_picture_link": "null",
