@@ -137,19 +137,6 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/shin.png"
 			},
 			{
-				"pseudo": "Newzera",
-				"firstname": "Alexis",
-				"lastname": "Humbert",
-				"gender": "M",
-				"country_1": "1F1EB",
-				"country_2": "1F1F7",
-				"birth_date": "2001-02-27",
-				"role": "Initiator",
-				"twitch": "Newzeraaaa",
-				"twitter": "Newzeraaa",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/newzera.png"
-			},
-			{
 				"pseudo": "ScreaM",
 				"firstname": "Adil",
 				"lastname": "Benrlitom",
@@ -157,7 +144,7 @@
 				"country_1": "1F1E7",
 				"country_2": "1F1EA",
 				"birth_date": "1994-07-02",
-				"role": "IGL",
+				"role": "One Tap Man",
 				"twitch": "ScreaM",
 				"twitter": "ScreaM_",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/scream.png"
@@ -209,7 +196,7 @@
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
 				"birth_date": "1999-06-26",
-				"role": "Assistant coach",
+				"role": "IGL & Assistant coach",
 				"twitch": "ZE1SH",
 				"twitter": "ZE1SHH",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/ze1sh.png"
