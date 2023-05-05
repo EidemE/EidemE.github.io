@@ -1,2 +1,10 @@
 [
+  {
+    "id": "20230505",
+    "title": "Nouveau sondage !",
+    "content": "Un nouveau sondage de 2 minutes est disponible pour recueillir votre avis et votre expérience avec l'application.\n\nMerci d'avance pour votre réponse !",
+    "is_button": true,
+    "button_title": "Répondre au sondage",
+    "button_link": "https://docs.google.com/forms/d/e/1FAIpQLSd6nbdlOcu94Z1tsWZ8i96Rwz4AzU9m2dj3Ksvfy5zrKiUIGA/viewform?usp=sf_link"
+  }
 ]
