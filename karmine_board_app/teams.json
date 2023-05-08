@@ -144,7 +144,7 @@
 				"country_1": "1F1E7",
 				"country_2": "1F1EA",
 				"birth_date": "1994-07-02",
-				"role": "One Tap Man",
+				"role": "One Tap Machine",
 				"twitch": "ScreaM",
 				"twitter": "ScreaM_",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/scream.png"
@@ -312,6 +312,12 @@
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png",
 		"topic_name": "valogc",
 		"rankings": [
+			{
+				"type": "Pandascore",
+				"id": 10471,
+				"name": "VCT GC EMEA 2023",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png"
+			}
 		]
 	},
 	{
