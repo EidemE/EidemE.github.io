@@ -113,14 +113,32 @@
 		"rankings": [
 			{
 				"type": "Pandascore",
+				"id": 9724,
+				"name": "LFL Spring 2023",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+			},
+			{
+				"type": "Pandascore",
 				"id": 8136,
 				"name": "LFL Summer 2022",
 				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
 			},
 			{
 				"type": "Pandascore",
-				"id": 9724,
-				"name": "LFL Spring 2023",
+				"id": 7297,
+				"name": "LFL Spring 2022",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+			},
+			{
+				"type": "Pandascore",
+				"id": 6151,
+				"name": "LFL Summer 2021",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+			},
+			{
+				"type": "Pandascore",
+				"id": 5312,
+				"name": "LFL Spring 2021",
 				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
 			}
 		]
@@ -216,6 +234,12 @@
 				"id": 10009,
 				"name": "VCT EMEA 2023",
 				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct_emea.png"
+			},
+			{
+				"type": "Pandascore",
+				"id": 8070,
+				"name": "VRL France: Revolution Stage 2",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vrl_france.png"
 			}
 		]
 	},
@@ -328,7 +352,7 @@
 	},
 	{
 		"game": "Rocket League",
-		"league": "RLCS Winter Major Champions",
+		"league": "RLCS - EU",
 		"members": [
 			{
 				"pseudo": "itachi",
