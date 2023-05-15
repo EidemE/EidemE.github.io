@@ -1,5 +1,20 @@
 [
     {
+        "name": "Rising Legends: Finals",
+        "period": "Monsters Attack! - 2023",
+        "fact": "Premier trophée européen pour CanbizZ, deuxième trophée européen pour la Karmine",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/rising_legends_finals_gg_2022.png",
+        "team_picture_link": "null",
+        "team": [
+            {
+                "pseudo": "CanbizZ",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Player"
+            }
+        ]
+    },
+    {
         "name": "RLCS Major",
         "period": "Winter 2023",
         "fact": "Premier trophée internationnal de la KCORP sur un jeu majeur",
