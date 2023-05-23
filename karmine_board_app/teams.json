@@ -93,6 +93,19 @@
 				"twitch": "null",
 				"twitter": "Wadi_lol",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/wadi.png"
+			},
+			{
+				"pseudo": "Skeanz",
+				"firstname": "Duncan",
+				"lastname": "Marquet",
+				"gender": "M",
+				"country_1": "1F1EB",
+				"country_2": "1F1F7",
+				"birth_date": "2000-09-25",
+				"role": "Sub",
+				"twitch": "skeanz",
+				"twitter": "null",
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/skeanz.png"
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png",
