@@ -1,7 +1,7 @@
 [
 	{
 		"game": "League of Legends",
-		"league": "LFL",
+		"league": "ERL - LFL",
 		"members": [
 			{
 				"pseudo": "Cabochard",
@@ -17,16 +17,16 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/cabochard.png"
 			},
 			{
-				"pseudo": "Skeanz",
-				"firstname": "Duncan",
-				"lastname": "Marquet",
+				"pseudo": "Cinkrof",
+				"firstname": "Jakub",
+				"lastname": "Rokicki",
 				"gender": "M",
-				"country_1": "1F1EB",
-				"country_2": "1F1F7",
-				"birth_date": "2000-03-28",
+				"country_1": "1F1F5",
+                		"country_2": "1F1F1",
+				"birth_date": "1997-08-09",
 				"role": "Jungler",
-				"twitch": "skeanz",
-				"twitter": "Skeanz_lol",
+				"twitch": "cinkrofwest",
+				"twitter": "Cinkroflol",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/skeanz.png"
 			},
 			{
@@ -43,29 +43,29 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/saken.png"
 			},
 			{
-				"pseudo": "Kaori",
-				"firstname": "Muhammed Hasan",
-				"lastname": "Şentürk",
+				"pseudo": "Caliste",
+				"firstname": "Caliste",
+				"lastname": "Henry-Hennebert",
 				"gender": "M",
-				"country_1": "1F1F9",
+				"country_1": "1F1EB",
 				"country_2": "1F1F7",
-				"birth_date": "2001-07-09",
+				"birth_date": "null",
 				"role": "Bot laner",
-				"twitch": "kaori123",
-				"twitter": "KaoriLoL",
+				"twitch": "caliste_lol",
+				"twitter": "CalisteLoL",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/kaori.png"
 			},
 			{
-				"pseudo": "whiteinn",
-				"firstname": "Alexandru",
-				"lastname": "Kolozsvari",
+				"pseudo": "Targamas",
+				"firstname": "Raphaël",
+				"lastname": "Crabbé",
 				"gender": "M",
-				"country_1": "1F1F7",
-				"country_2": "1F1F4",
-				"birth_date": "2000-10-03",
+				"country_1": "1F1E7",
+				"country_2": "1F1EA",
+				"birth_date": "2000-06-30",
 				"role": "Support",
-				"twitch": "null",
-				"twitter": "Whitein15",
+				"twitch": "targamas1",
+				"twitter": "Targamas",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/whitein.png"
 			},
 			{
@@ -108,11 +108,44 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/nalkya.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png",
+		"topic_name": "lolerl",
+		"rankings": [
+			{
+				"type": "Pandascore",
+				"id": 9724,
+				"name": "LFL Spring 2023",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+			},
+			{
+				"type": "Pandascore",
+				"id": 8136,
+				"name": "LFL Summer 2022",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+			},
+			{
+				"type": "Pandascore",
+				"id": 7297,
+				"name": "LFL Spring 2022",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+			},
+			{
+				"type": "Pandascore",
+				"id": 6151,
+				"name": "LFL Summer 2021",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+			},
+			{
+				"type": "Pandascore",
+				"id": 5312,
+				"name": "LFL Spring 2021",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+			}
+		]
 	},
 	{
 		"game": "Valorant",
-		"league": "VCT",
+		"league": "VCT - EMEA",
 		"members": [
 			{
 				"pseudo": "Shin",
@@ -128,19 +161,6 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/shin.png"
 			},
 			{
-				"pseudo": "Newzera",
-				"firstname": "Alexis",
-				"lastname": "Humbert",
-				"gender": "M",
-				"country_1": "1F1EB",
-				"country_2": "1F1F7",
-				"birth_date": "2001-02-27",
-				"role": "Initiator",
-				"twitch": "Newzeraaaa",
-				"twitter": "Newzeraaa",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/newzera.png"
-			},
-			{
 				"pseudo": "ScreaM",
 				"firstname": "Adil",
 				"lastname": "Benrlitom",
@@ -148,7 +168,7 @@
 				"country_1": "1F1E7",
 				"country_2": "1F1EA",
 				"birth_date": "1994-07-02",
-				"role": "IGL",
+				"role": "One Tap Machine",
 				"twitch": "ScreaM",
 				"twitter": "ScreaM_",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/scream.png"
@@ -200,17 +220,32 @@
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
 				"birth_date": "1999-06-26",
-				"role": "Assistant coach",
+				"role": "IGL & Assistant coach",
 				"twitch": "ZE1SH",
 				"twitter": "ZE1SHH",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/ze1sh.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct_emea.png",
+		"topic_name": "valovct",
+		"rankings": [
+			{
+				"type": "Pandascore",
+				"id": 10009,
+				"name": "VCT EMEA 2023",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vct_emea.png"
+			},
+			{
+				"type": "Pandascore",
+				"id": 8070,
+				"name": "VRL France: Revolution Stage 2",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/vrl_france.png"
+			}
+		]
 	},
 	{
 		"game": "Valorant",
-		"league": "Game Changers",
+		"league": "Game Changers - EMEA",
 		"members": [
 			{
 				"pseudo": "LiriLia",
@@ -232,7 +267,7 @@
 				"gender": "F",
 				"country_1": "1F1E7",
 				"country_2": "1F1EA",
-				"birth_date": "2004-09-15",
+				"birth_date": "2005-09-15",
 				"role": "Duelist",
 				"twitch": "matriixl1",
 				"twitter": "matriixl",
@@ -240,7 +275,7 @@
 			},
 			{
 				"pseudo": "Mel",
-				"firstname": "Mel",
+				"firstname": "Mélina",
 				"lastname": "Houssein",
 				"gender": "F",
 				"country_1": "1F1EB",
@@ -267,7 +302,7 @@
 			{
 				"pseudo": "Ninou",
 				"firstname": "Nouhara",
-				"lastname": "Oraha",
+				"lastname": "Marcos",
 				"gender": "F",
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
@@ -304,11 +339,20 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/emash.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png",
+		"topic_name": "valogc",
+		"rankings": [
+			{
+				"type": "Pandascore",
+				"id": 10471,
+				"name": "VCT GC EMEA 2023",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png"
+			}
+		]
 	},
 	{
 		"game": "Rocket League",
-		"league": "RLCS",
+		"league": "RLCS - EU",
 		"members": [
 			{
 				"pseudo": "itachi",
@@ -321,7 +365,7 @@
 				"role": "Captain",
 				"twitch": "itachi_rl",
 				"twitter": "itachi_rl",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/itachi.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/itachi_wm.png"
 			},
 			{
 				"pseudo": "vatira.",
@@ -334,7 +378,7 @@
 				"role": "Player",
 				"twitch": "Vatira_",
 				"twitter": "Vatira5",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/vatira.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/vatira_wm.png"
 			},
 			{
 				"pseudo": "ExoTiiK",
@@ -347,7 +391,7 @@
 				"role": "Player",
 				"twitch": "ExoTiiKrl",
 				"twitter": "exotiikrl",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/exotiik.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/exotiik_wm.png"
 			},
 			{
 				"pseudo": "Eversax",
@@ -360,10 +404,13 @@
 				"role": "Coach",
 				"twitch": "Eversax",
 				"twitter": "Eversax",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/eversax.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/eversax_wm.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/rlcs.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/rlcs.png",
+		"topic_name": "rl",
+		"rankings": [
+		]
 	},
 	{
 		"game": "Smash Bros. Ultimate",
@@ -380,14 +427,17 @@
 				"role": "Player",
 				"twitch": "Kurama_SSB",
 				"twitter": "Kurama_Smash",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/kurama.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/kurama_s6.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/ssbu.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/ssbu.png",
+		"topic_name": "ssbu",
+		"rankings": [
+		]
 	},
 	{
 		"game": "Teamfight Tactics",
-		"league": "null",
+		"league": "EMEA",
 		"members": [
 			{
 				"pseudo": "Double61",
@@ -416,7 +466,10 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/canbizz.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tft.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tft.png",
+		"topic_name": "tft",
+		"rankings": [
+		]
 	},
 	{
 		"game": "Trackmania",
@@ -429,7 +482,7 @@
 				"gender": "M",
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
-				"birth_date": "1998-03-05",
+				"birth_date": "1998-12-23",
 				"role": "Player",
 				"twitch": "Bren_TM2",
 				"twitter": "Bren_TM2",
@@ -449,6 +502,9 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/otaaq.png"
 			}
 		],
-		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tm_wt.png"
+		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/tm_wt.png",
+		"topic_name": "tm",
+		"rankings": [
+		]
 	}
 ]
