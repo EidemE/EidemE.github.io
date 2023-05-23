@@ -17,17 +17,17 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/cabochard.png"
 			},
 			{
-				"pseudo": "Skeanz",
-				"firstname": "Duncan",
-				"lastname": "Marquet",
+				"pseudo": "Cinkrof",
+				"firstname": "Jakub",
+				"lastname": "Rokicki",
 				"gender": "M",
-				"country_1": "1F1EB",
-				"country_2": "1F1F7",
-				"birth_date": "2000-09-25",
+				"country_1": "1F1F5",
+                		"country_2": "1F1F1",
+				"birth_date": "1997-08-09",
 				"role": "Jungler",
-				"twitch": "skeanz",
-				"twitter": "Skeanz_lol",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/skeanz.png"
+				"twitch": "cinkrofwest",
+				"twitter": "Cinkroflol",
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/cinkrof.png"
 			},
 			{
 				"pseudo": "Saken",
@@ -43,43 +43,30 @@
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/saken.png"
 			},
 			{
-				"pseudo": "Kaori",
-				"firstname": "Muhammed Hasan",
-				"lastname": "Şentürk",
+				"pseudo": "Caliste",
+				"firstname": "Caliste",
+				"lastname": "Henry-Hennebert",
 				"gender": "M",
-				"country_1": "1F1F9",
+				"country_1": "1F1EB",
 				"country_2": "1F1F7",
-				"birth_date": "2001-07-09",
+				"birth_date": "2006-08-28",
 				"role": "Bot laner",
-				"twitch": "kaori123",
-				"twitter": "KaoriLoL",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/kaori.png"
+				"twitch": "caliste_lol",
+				"twitter": "CalisteLoL",
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/caliste.png"
 			},
 			{
-				"pseudo": "whiteinn",
-				"firstname": "Alexandru",
-				"lastname": "Kolozsvari",
-				"gender": "M",
-				"country_1": "1F1F7",
-				"country_2": "1F1F4",
-				"birth_date": "2000-10-03",
-				"role": "Support",
-				"twitch": "null",
-				"twitter": "Whitein15",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/whitein.png"
-			},
-			{
-				"pseudo": "Nerroh",
-				"firstname": "Stefan",
-				"lastname": "Pereira",
+				"pseudo": "Targamas",
+				"firstname": "Raphaël",
+				"lastname": "Crabbé",
 				"gender": "M",
 				"country_1": "1F1E7",
 				"country_2": "1F1EA",
-				"birth_date": "1996-08-08",
-				"role": "Head coach",
-				"twitch": "null",
-				"twitter": "Nerrohlol",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/nerroh.png"
+				"birth_date": "2000-06-30",
+				"role": "Support",
+				"twitch": "targamas1",
+				"twitter": "Targamas",
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/targamas.png"
 			},
 			{
 				"pseudo": "Reha",
@@ -89,23 +76,23 @@
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
 				"birth_date": "null",
-				"role": "Assistant coach",
+				"role": "Head coach",
 				"twitch": "null",
 				"twitter": "SKIDIDIPOPOFF",
 				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/reha.png"
 			},
 			{
-				"pseudo": "Nalkya",
-				"firstname": "Clement",
-				"lastname": "Guillemard",
+				"pseudo": "Wadi",
+				"firstname": "Wadi",
+				"lastname": "Benarbia",
 				"gender": "M",
 				"country_1": "1F1EB",
 				"country_2": "1F1F7",
-				"birth_date": "1995-09-11",
+				"birth_date": "null",
 				"role": "Assistant coach",
-				"twitch": "NalkyaLoL",
-				"twitter": "NalkyaLoL",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/nalkya.png"
+				"twitch": "null",
+				"twitter": "Wadi_lol",
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/wadi.png"
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png",
