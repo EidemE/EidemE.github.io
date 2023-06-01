@@ -113,6 +113,12 @@
 		"rankings": [
 			{
 				"type": "Pandascore",
+				"id": 10674,
+				"name": "LFL Summer 2023",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
+			},
+			{
+				"type": "Pandascore",
 				"id": 9724,
 				"name": "LFL Spring 2023",
 				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png"
