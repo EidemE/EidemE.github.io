@@ -6,5 +6,11 @@
       "is_button": true,
       "button_title": "Laisser un pourboire",
       "button_link": "https://www.buymeacoffee.com/Arbitro"
+    },
+    {
+      "id": "20230612",
+      "title": "IMPORTANT",
+      "content": "Si vous receviez les notifications de fin de match sans les avoir activées, c'est désormais corrigé ! Désolé pour cette erreur, vous pouvez donc réactiver vos notifications si vous les aviez désactivées",
+      "is_button": false
     }
 ]
