@@ -1,13 +1,5 @@
 [
     {
-      "id": "20230611",
-      "title": "Une petite pièce ?",
-      "content": "Suite à quelques demandes reçues via les formulaires, j'ai créé une page pour pouvoir me donner un pourboire UNIQUEMENT si vous le souhaitez. Je ne souhaite forcer la main de personne, merci à vous !",
-      "is_button": true,
-      "button_title": "Laisser un pourboire",
-      "button_link": "https://www.buymeacoffee.com/Arbitro"
-    },
-    {
       "id": "20230612",
       "title": "IMPORTANT",
       "content": "Si vous receviez les notifications de fin de match sans les avoir activées, c'est désormais corrigé ! Désolé pour cette erreur, vous pouvez donc réactiver vos notifications si vous les aviez désactivées",
