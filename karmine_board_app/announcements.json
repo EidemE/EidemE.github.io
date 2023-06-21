@@ -1,5 +1,13 @@
 [
     {
+      "id": "20230621",
+      "title": "Sondage de juin",
+      "content": "Le sondage de juin est disponible, c'est l'occasion de faire remonter vos suggestions ! Si vous êtes arrivés hier (et merci !), je vous conseille d'utiliser un peu l'app avant",
+      "is_button": true,
+      "button_title": "Répondre au sondage",
+      "button_link": "https://docs.google.com/forms/d/e/1FAIpQLSfolG9ZV8xb6IiY0IeKtxc7cJQZwBHTJLgUI25lSMTukrvbbQ/viewform?usp=sf_link"
+    },
+    {
       "id": "20230611",
       "title": "Bienvenue à tous !",
       "content": "Suite à quelques demandes reçues en privé, j'ai créé une page pour pouvoir me faire un don UNIQUEMENT si vous le souhaitez. Je ne souhaite forcer la main de personne, merci à vous !",
