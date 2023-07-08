@@ -350,8 +350,14 @@
 		"rankings": [
 			{
 				"type": "Pandascore",
+				"id": 10888,
+				"name": "VCT GC EMEA 2023 - Split 2",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png"
+			},
+			{
+				"type": "Pandascore",
 				"id": 10471,
-				"name": "VCT GC EMEA 2023",
+				"name": "VCT GC EMEA 2023 - Split 1",
 				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png"
 			}
 		]
