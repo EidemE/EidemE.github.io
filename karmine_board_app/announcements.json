@@ -1,18 +1,10 @@
 [
     {
-      "id": "20230628",
-      "title": "Sondage sur l'historique",
-      "content": "J'aimerais recueillir votre avis sur le design de l'historique ! Merci pour votre temps",
+      "id": "20230708",
+      "title": "Vos icônes",
+      "content": "Si vous avez Android 13 et que vous avez calé la couleur de vos icônes sur celle de votre fond d'écran, partagez les moi !",
       "is_button": true,
-      "button_title": "Répondre au sondage",
-      "button_link": "https://docs.google.com/forms/d/e/1FAIpQLSeqBu_O_EQdT8EjC0bIvP3jIir5vcNK01Eg9hDDTqRNDBYxFQ/viewform?usp=sf_link"
-    },
-    {
-      "id": "20230611",
-      "title": "Bienvenue à tous !",
-      "content": "Suite à quelques demandes reçues en privé, j'ai créé une page pour pouvoir me faire un don UNIQUEMENT si vous le souhaitez. Je ne souhaite forcer la main de personne, merci à vous !",
-      "is_button": true,
-      "button_title": "Faire une donation",
-      "button_link": "https://www.buymeacoffee.com/Arbitro"
+      "button_title": "Partager mon icône",
+      "button_link": "https://twitter.com/LovrilU/status/1671823865092112385"
     }
 ]
