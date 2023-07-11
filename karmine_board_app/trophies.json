@@ -3,6 +3,7 @@
         "name": "Rising Legends: Finals",
         "period": "Monsters Attack! - 2023",
         "fact": "Premier trophée européen pour CanbizZ, deuxième trophée européen pour la Karmine",
+        "date": "2023-05-15",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/rising_legends_finals_ma_2023.png",
         "team_picture_link": "null",
         "team": [
@@ -18,6 +19,9 @@
         "name": "RLCS Major",
         "period": "Winter 2023",
         "fact": "Premier trophée internationnal de la KCORP sur un jeu majeur",
+        "match_id": 753444,
+        "date": "2023-04-10",
+        "place": "San Diego",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/rlcs_winter_major_2023.png",
         "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/rlcs_winter_major_2023_team.png",
         "team": [
@@ -51,6 +55,7 @@
         "name": "Hex League",
         "period": "2022 Split 2",
         "fact": "Premier trophée pour CanbizZ, ramenant le dernier trophée majeur du jeu manquant au club",
+        "date": "2022-10-31",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/hex_league_2_2022.png",
         "team_picture_link": "null",
         "team": [
@@ -66,6 +71,8 @@
         "name": "EUM",
         "period": "Spring 2022",
         "fact": "Première équipe à faire un three-peat en EUM",
+        "match_id": 629774,
+        "date": "2022-05-07",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_spring_2022.png",
         "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_spring_2022_team.png",
         "team": [
@@ -111,6 +118,7 @@
         "name": "Rising Legends: Finals",
         "period": "Gizmos & Gadgets - 2022",
         "fact": "Deuxième trophée européen pour Double",
+        "date": "2022-03-27",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/rising_legends_finals_gg_2022.png",
         "team_picture_link": "null",
         "team": [
@@ -126,6 +134,8 @@
         "name": "EUM",
         "period": "Summer 2021",
         "fact": "Première équipe à faire un back-to-back en EUM",
+        "match_id": 604583,
+        "date": "2021-09-19",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_summer_2021.png",
         "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_summer_2021_team.png",
         "team": [
@@ -171,6 +181,8 @@
         "name": "EUM",
         "period": "Spring 2021",
         "fact": "Première équipe de LFL à faire le doublé LFL - EUM en un split",
+        "match_id": 591183,
+        "date": "2021-05-02",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_spring_2021.png",
         "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/eum_spring_2021_team.png",
         "team": [
@@ -216,6 +228,8 @@
         "name": "LFL",
         "period": "Spring 2021",
         "fact": "Tout premier trophée de la KCORP sous le nouveau nom",
+        "match_id": 586696,
+        "date": "2021-03-25",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/lfl_spring_2021.png",
         "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/lfl_spring_2021_team.png",
         "team": [
@@ -261,6 +275,7 @@
         "name": "Worlds Championship",
         "period": "Galaxies - 2020",
         "fact": "Premier trophée du club et unique trophée sous le nom Kameto Corp",
+        "date": "2020-09-04",
         "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/worlds_tft_2020.png",
         "team_picture_link": "null",
         "team": [
