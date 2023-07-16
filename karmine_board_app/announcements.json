@@ -6,5 +6,13 @@
       "is_button": true,
       "button_title": "Partager mon icône",
       "button_link": "https://twitter.com/LovrilU/status/1671823865092112385"
+    },
+    {
+      "id": "20230716",
+      "title": "Programme Bêta",
+      "content": "Vous voulez rejoindre la bêta pour participer à l'évolution de l'app et avoir toutes les nouveautés en avance ?",
+      "is_button": true,
+      "button_title": "Rejoindre la bêta",
+      "button_link": "https://docs.google.com/forms/d/e/1FAIpQLSewgw9eegh2ujTSdoNcVj9mL8a1mmmfpquOXBUDeQSn2vSPkw/viewform?usp=sf_link"
     }
 ]
