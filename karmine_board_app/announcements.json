@@ -6,5 +6,13 @@
       "is_button": true,
       "button_title": "Partager mon icône",
       "button_link": "https://twitter.com/LovrilU/status/1671823865092112385"
+    },
+    {
+      "id": "20230719",
+      "title": "LFL OTP #KCORP",
+      "content": "Tu veux soutenir l'équipe Karmine Corp League of Legends qui joue ce soir en LFL sur OTP ? #KCORPWIN",
+      "is_button": true,
+      "button_title": "Oui, je le veux !",
+      "button_link": ""
     }
 ]
