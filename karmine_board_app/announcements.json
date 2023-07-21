@@ -6,5 +6,13 @@
       "is_button": true,
       "button_title": "Partager mon icône",
       "button_link": "https://twitter.com/LovrilU/status/1671823865092112385"
+    },
+    {
+      "id": "20230721",
+      "title": "Vous aimez l'app ?",
+      "content": "N'hésitez pas à laisser un avis sur le Play Store si vous aimez l'app, cela permet de mettre en avant l'application ! Merci à vous",
+      "is_button": true,
+      "button_title": "Laisser mon avis",
+      "button_link": "https://play.google.com/store/apps/details?id=arbitro.android.karmine_board_app"
     }
 ]
