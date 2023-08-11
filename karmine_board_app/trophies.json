@@ -43,7 +43,13 @@
                  "country_1": "1F1EB", 
                  "country_2": "1F1F7", 
                  "role": "Head coach" 
-             } 
+             },
+             { 
+                 "pseudo": "Skeanz", 
+                 "country_1": "1F1EB", 
+                 "country_2": "1F1F7", 
+                 "role": "Sub" 
+             }
          ] 
     },
     {
