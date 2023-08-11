@@ -1,4 +1,51 @@
 [
+    { 
+         "name": "LFL", 
+         "period": "Summer 2023", 
+         "fact": "Nouveau trophée pour le retour du roster légendaire de 2021",  
+         "date": "2023-08-11", 
+         "place": null, 
+         "picture_link": "null", 
+         "team_picture_link": "null", 
+         "team": [ 
+             { 
+                 "pseudo": "Cabochard", 
+                 "country_1": "1F1EB", 
+                 "country_2": "1F1F7", 
+                 "role": "Top laner" 
+             }, 
+             { 
+                 "pseudo": "Cinkrof", 
+                 "country_1": "1F1F5", 
+                 "country_2": "1F1F1", 
+                 "role": "Jungler" 
+             }, 
+             { 
+                 "pseudo": "Saken", 
+                 "country_1": "1F1EB", 
+                 "country_2": "1F1F7", 
+                 "role": "Mid laner" 
+             }, 
+             { 
+                 "pseudo": "Caliste", 
+                 "country_1": "1F1EB", 
+                 "country_2": "1F1F7", 
+                 "role": "Bot laner" 
+             }, 
+             { 
+                 "pseudo": "Targamas", 
+                 "country_1": "1F1E7", 
+                 "country_2": "1F1EA", 
+                 "role": "Support" 
+             }, 
+             { 
+                 "pseudo": "Reha", 
+                 "country_1": "1F1EB", 
+                 "country_2": "1F1F7", 
+                 "role": "Head coach" 
+             } 
+         ] 
+    },
     {
         "name": "Rising Legends: Finals",
         "period": "Monsters Attack! - 2023",
