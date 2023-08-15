@@ -136,7 +136,7 @@
         ]
     },
     {
-        "name": "EUM",
+        "name": "European Masters",
         "period": "Spring 2022",
         "fact": "Première équipe à faire un three-peat en EUM",
         "match_id": 629774,
@@ -204,7 +204,7 @@
         ]
     },
     {
-        "name": "EUM",
+        "name": "European Masters",
         "period": "Summer 2021",
         "fact": "Première équipe à faire un back-to-back en EUM",
         "match_id": 604583,
@@ -253,7 +253,7 @@
         ]
     },
     {
-        "name": "EUM",
+        "name": "European Masters",
         "period": "Spring 2021",
         "fact": "Première équipe de LFL à faire le doublé LFL - EUM en un split",
         "match_id": 591183,
@@ -351,7 +351,7 @@
         ]
     },
     {
-        "name": "Worlds Championship",
+        "name": "TFT Worlds Championship",
         "period": "Galaxies - 2020",
         "fact": "Premier trophée du club et unique trophée sous le nom Kameto Corp",
         "match_id": null,
