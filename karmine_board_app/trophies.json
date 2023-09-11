@@ -7,8 +7,8 @@
         "replay_id": null,
         "date": "2023-09-08",
         "place": "Montpellier",
-        "picture_link": "null",
-        "team_picture_link": "null",
+        "picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/emeam_summer_2023.png",
+        "team_picture_link": "https://eideme.github.io/karmine_board_app/pictures_trophies/emea_summer_2023_team.png",
         "team": [
             {
                 "pseudo": "Cabochard",
