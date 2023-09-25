@@ -1,5 +1,24 @@
 [
     {
+        "name": "XPEvo",
+        "period": "2023",
+        "fact": "Premier trophée pour le pitchoun Otaaaq et pour notre division Trackmania",
+        "match_id": null,
+        "replay_id": null,
+        "date": "2023-09-24",
+        "place": "Cologne",
+        "picture_link": "https://karmine-board.com/pictures_trophies/xpevo_2023.png",
+        "team_picture_link": "https://karmine-board.com/pictures_trophies/xpevo_2023_team.png",
+        "team": [
+            {
+                "pseudo": "Otaaaq",
+                "country_1": "1F1EB",
+                "country_2": "1F1F7",
+                "role": "Player"
+            }
+        ]
+    },
+    {
         "name": "EMEA Masters",
         "period": "Summer 2023",
         "fact": "La Karmine reste invaincue dans la compétition et ramène son quatrième titre !",
