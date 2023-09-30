@@ -14,7 +14,7 @@
 				"role": "Top laner",
 				"twitch": "Cabochardlol",
 				"twitter": "CabochardLoL",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/cabochard.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/cabochard_em23.png"
 			},
 			{
 				"pseudo": "Cinkrof",
@@ -27,7 +27,7 @@
 				"role": "Jungler",
 				"twitch": "cinkrofwest",
 				"twitter": "Cinkroflol",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/cinkrof.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/cinkrof_em23.png"
 			},
 			{
 				"pseudo": "Saken",
@@ -40,7 +40,7 @@
 				"role": "Mid laner",
 				"twitch": "saken_lol",
 				"twitter": "Saken_lol",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/saken.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/saken_em23.png"
 			},
 			{
 				"pseudo": "Caliste",
@@ -53,7 +53,7 @@
 				"role": "Bot laner",
 				"twitch": "caliste_lol",
 				"twitter": "CalisteLoL",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/caliste.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/caliste_em23.png"
 			},
 			{
 				"pseudo": "Targamas",
@@ -66,7 +66,7 @@
 				"role": "Support",
 				"twitch": "targamas1",
 				"twitter": "Targamas",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/targamas.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/targamas_em23.png"
 			},
 			{
 				"pseudo": "Reha",
@@ -79,7 +79,7 @@
 				"role": "Head coach",
 				"twitch": "null",
 				"twitter": "SKIDIDIPOPOFF",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/reha.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/reha_em23.png"
 			},
 			{
 				"pseudo": "Wadi",
@@ -92,7 +92,7 @@
 				"role": "Assistant coach",
 				"twitch": "null",
 				"twitter": "Wadi_lol",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/wadi.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/wadi_em23.png"
 			},
 			{
 				"pseudo": "Skeanz",
@@ -105,7 +105,7 @@
 				"role": "Sub",
 				"twitch": "skeanz",
 				"twitter": "Skeanz_lol",
-				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/skeanz.png"
+				"picture_link": "https://eideme.github.io/karmine_board_app/pictures_players/skeanz_em23.png"
 			}
 		],
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/lfl.png",
@@ -348,6 +348,12 @@
 		"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png",
 		"topic_name": "valogc",
 		"rankings": [
+			{
+				"type": "Pandascore",
+				"id": 11781,
+				"name": "VCT GC EMEA 2023 - Split 3",
+				"picture_link": "https://eideme.github.io/karmine_board_app/logo_leagues/gc.png"
+			},
 			{
 				"type": "Pandascore",
 				"id": 10888,
